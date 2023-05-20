@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "database-coursework"
+version = "0.1.0"
+description = ""
+authors = ["Daniels Ivaskevics <wavesaftwaves@gmail.com>"]
+readme = "README.md"
+packages = [{include = "database_coursework"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.30.0"
+psycopg2-binary = "^2.9.6"
+pydantic = "^1.10.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
