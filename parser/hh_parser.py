@@ -1,6 +1,7 @@
 import requests
 from service.abstract import Parser
-from typing import Dict, List, Any
+
+from service.base import Vacancy
 
 
 class HHParser(Parser):
@@ -11,7 +12,7 @@ class HHParser(Parser):
         self.url = 'https://api.hh.ru/vacancies'
         self.page = 1
 
-    def get_data(self) -> dict[str, list[Any]]:
+    def get_data(self) -> list[Vacancy]:
         """Запрос"""
         responce = {"items": []}
         for page in range(1, 11):
@@ -28,6 +29,19 @@ class HHParser(Parser):
             self.page += 1
 
             responce.get('items').extend(responce_data.json().get("items"))
-        return responce
+        return self.parse(responce)
 
-
+    def parse(self, data: dict) -> list[Vacancy]:
+        answer = []
+        for el in data['items']:
+            salary = el.get('salary')
+            if salary:
+                answer.append(Vacancy(**{
+                    "title": el['name'],
+                    "employer": el['employer']['name'],
+                    "salary_max": el['salary']['to'],
+                    "salary_min": el['salary']['from'],
+                    "link": el['alternate_url'],
+                })
+                              )
+        return answer
