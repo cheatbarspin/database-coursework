@@ -1,0 +1,3502 @@
+[
+    {
+        "title": "Backend Developer (Python)",
+        "salary_max": 0,
+        "salary_min": 90000,
+        "employer": "DFA MEDIA",
+        "link": "https://hh.ru/vacancy/80458099"
+    },
+    {
+        "title": "Аналитик",
+        "salary_max": 73000,
+        "salary_min": 60000,
+        "employer": "Департамент Ф53",
+        "link": "https://hh.ru/vacancy/80803157"
+    },
+    {
+        "title": "Java-разработчик",
+        "salary_max": 0,
+        "salary_min": 90000,
+        "employer": "БалтИнфоКом",
+        "link": "https://hh.ru/vacancy/79889982"
+    },
+    {
+        "title": "Python-разработчик",
+        "salary_max": 0,
+        "salary_min": 120000,
+        "employer": "EPG Service",
+        "link": "https://hh.ru/vacancy/80677871"
+    },
+    {
+        "title": "Python-разработчик (удаленно) — Сайты и боты",
+        "salary_max": 200000,
+        "salary_min": 80000,
+        "employer": "Гусев Святослав Олегович",
+        "link": "https://hh.ru/vacancy/80780415"
+    },
+    {
+        "title": "Аналитик данных / Data Analyst (Junior)",
+        "salary_max": 80000,
+        "salary_min": 60000,
+        "employer": "Щербин Алексей Сергеевич",
+        "link": "https://hh.ru/vacancy/80282114"
+    },
+    {
+        "title": "Python-разработчик (удаленно) — Сайты и боты",
+        "salary_max": 200000,
+        "salary_min": 80000,
+        "employer": "Гусев Святослав Олегович",
+        "link": "https://hh.ru/vacancy/80780414"
+    },
+    {
+        "title": "Тестировщик ПО",
+        "salary_max": 80000,
+        "salary_min": 50000,
+        "employer": "Планар",
+        "link": "https://hh.ru/vacancy/80101836"
+    },
+    {
+        "title": "Аналитик",
+        "salary_max": 54350,
+        "salary_min": 0,
+        "employer": "DSM Group",
+        "link": "https://hh.ru/vacancy/80485628"
+    },
+    {
+        "title": "Программист",
+        "salary_max": 75000,
+        "salary_min": 50000,
+        "employer": "ГУФССП России по Московской области",
+        "link": "https://hh.ru/vacancy/80465473"
+    },
+    {
+        "title": "Frontend-разработчик",
+        "salary_max": 0,
+        "salary_min": 45000,
+        "employer": "Траектория",
+        "link": "https://hh.ru/vacancy/80133971"
+    },
+    {
+        "title": "Python-разработчик",
+        "salary_max": 0,
+        "salary_min": 80000,
+        "employer": "ЦСИ Интегро",
+        "link": "https://hh.ru/vacancy/80487702"
+    },
+    {
+        "title": "Junior Data scientist (Аналитик)",
+        "salary_max": 0,
+        "salary_min": 60000,
+        "employer": "Займиго МФК",
+        "link": "https://hh.ru/vacancy/79971763"
+    },
+    {
+        "title": "Начинающий Веб программист (Junior Web-разработчик)",
+        "salary_max": 70000,
+        "salary_min": 25000,
+        "employer": "РэйнбовСофт, НПО",
+        "link": "https://hh.ru/vacancy/67883113"
+    },
+    {
+        "title": "IT специалист",
+        "salary_max": 0,
+        "salary_min": 40000,
+        "employer": "Курганские прицепы",
+        "link": "https://hh.ru/vacancy/80727099"
+    },
+    {
+        "title": "Python-разработчик (Junior)",
+        "salary_max": 80000,
+        "salary_min": 60000,
+        "employer": "Щербин Алексей Сергеевич",
+        "link": "https://hh.ru/vacancy/80028912"
+    },
+    {
+        "title": "Программист Python",
+        "salary_max": 0,
+        "salary_min": 70000,
+        "employer": "Технопром",
+        "link": "https://hh.ru/vacancy/80657912"
+    },
+    {
+        "title": "Программист JavaScript",
+        "salary_max": 70000,
+        "salary_min": 50000,
+        "employer": "Электронная медицина",
+        "link": "https://hh.ru/vacancy/80736535"
+    },
+    {
+        "title": "GIS/ГИС специалист в управление информационного моделирования",
+        "salary_max": 0,
+        "salary_min": 100000,
+        "employer": "ГАУ ИНСТИТУТ ГЕНПЛАНА МОСКВЫ",
+        "link": "https://hh.ru/vacancy/80870849"
+    },
+    {
+        "title": "Web-разработчик",
+        "salary_max": 100000,
+        "salary_min": 60000,
+        "employer": "М-Бизнес",
+        "link": "https://hh.ru/vacancy/80559478"
+    },
+    {
+        "title": "Программист 1С без опыта",
+        "salary_max": 0,
+        "salary_min": 75000,
+        "employer": "Твое Решение",
+        "link": "https://hh.ru/vacancy/80377075"
+    },
+    {
+        "title": "Ведущий инженер технической поддержки",
+        "salary_max": 150000,
+        "salary_min": 120000,
+        "employer": "ДипХакЛаб",
+        "link": "https://hh.ru/vacancy/80657812"
+    },
+    {
+        "title": "Python разработчик",
+        "salary_max": 0,
+        "salary_min": 134000,
+        "employer": "Телеком и Микроэлектроник Индастриз",
+        "link": "https://hh.ru/vacancy/80842947"
+    },
+    {
+        "title": "Программист Python/Data Scientist (junior / middle)",
+        "salary_max": 120000,
+        "salary_min": 70000,
+        "employer": "Апэрбот",
+        "link": "https://hh.ru/vacancy/80419928"
+    },
+    {
+        "title": "Тестировщик",
+        "salary_max": 280000,
+        "salary_min": 0,
+        "employer": "Точка",
+        "link": "https://hh.ru/vacancy/78876947"
+    },
+    {
+        "title": "Manual QA engineer (Web)",
+        "salary_max": 90000,
+        "salary_min": 60000,
+        "employer": "Смартекс",
+        "link": "https://hh.ru/vacancy/80046513"
+    },
+    {
+        "title": "Стажер (аналитик)",
+        "salary_max": 30000,
+        "salary_min": 30000,
+        "employer": "L’etoile Digital",
+        "link": "https://hh.ru/vacancy/79767090"
+    },
+    {
+        "title": "Chief Technology Officer/CTO",
+        "salary_max": 1200000,
+        "salary_min": 800000,
+        "employer": "HR СНАЙПЕР",
+        "link": "https://hh.ru/vacancy/78157311"
+    },
+    {
+        "title": "Data Scientist R&D",
+        "salary_max": 300000,
+        "salary_min": 150000,
+        "employer": "Rubbles",
+        "link": "https://hh.ru/vacancy/80353588"
+    },
+    {
+        "title": "Программист Python",
+        "salary_max": 0,
+        "salary_min": 50000,
+        "employer": "МИРИТ",
+        "link": "https://hh.ru/vacancy/80549433"
+    },
+    {
+        "title": "Системный администратор",
+        "salary_max": 0,
+        "salary_min": 100000,
+        "employer": "Райтек",
+        "link": "https://hh.ru/vacancy/80850644"
+    },
+    {
+        "title": "Программист Python, Django",
+        "salary_max": 120000,
+        "salary_min": 0,
+        "employer": "MSquad",
+        "link": "https://hh.ru/vacancy/80377837"
+    },
+    {
+        "title": "Системный администратор",
+        "salary_max": 0,
+        "salary_min": 100000,
+        "employer": "Jet Games",
+        "link": "https://hh.ru/vacancy/80727235"
+    },
+    {
+        "title": "Инженер технической поддержки L2 (Infrastructure)",
+        "salary_max": 0,
+        "salary_min": 140000,
+        "employer": "SberTech",
+        "link": "https://hh.ru/vacancy/76983733"
+    },
+    {
+        "title": "Технический Директор (Chief Technical Officer)",
+        "salary_max": 700000,
+        "salary_min": 400000,
+        "employer": "Дэстэн Партнерс",
+        "link": "https://hh.ru/vacancy/80071057"
+    },
+    {
+        "title": "Системный инженер Linux",
+        "salary_max": 0,
+        "salary_min": 23000,
+        "employer": "Лайв Линукс",
+        "link": "https://hh.ru/vacancy/80849140"
+    },
+    {
+        "title": "Frontend developer",
+        "salary_max": 220000,
+        "salary_min": 150000,
+        "employer": "Смартекс",
+        "link": "https://hh.ru/vacancy/80808619"
+    },
+    {
+        "title": "Программист Python",
+        "salary_max": 0,
+        "salary_min": 50000,
+        "employer": "Микстелл",
+        "link": "https://hh.ru/vacancy/80578756"
+    },
+    {
+        "title": "Программист-разработчик Python",
+        "salary_max": 0,
+        "salary_min": 100000,
+        "employer": "Фреоникс",
+        "link": "https://hh.ru/vacancy/80189659"
+    },
+    {
+        "title": "Data Scientist, ML/NLP/GPT (Удаленно)",
+        "salary_max": 150000,
+        "salary_min": 100000,
+        "employer": "ИнтеллектДиалог",
+        "link": "https://hh.ru/vacancy/80773712"
+    },
+    {
+        "title": "Аналитик данных / бизнес-аналитик",
+        "salary_max": 80000,
+        "salary_min": 0,
+        "employer": "KIT SOLER",
+        "link": "https://hh.ru/vacancy/80846316"
+    },
+    {
+        "title": "Ручной тестировщик",
+        "salary_max": 0,
+        "salary_min": 80000,
+        "employer": "Альпина Паблишер",
+        "link": "https://hh.ru/vacancy/79583519"
+    },
+    {
+        "title": "Data Analytics (Аналитик данных)",
+        "salary_max": 0,
+        "salary_min": 120000,
+        "employer": "КОЛХОЗ",
+        "link": "https://hh.ru/vacancy/80491199"
+    },
+    {
+        "title": "Младший программист Python",
+        "salary_max": 0,
+        "salary_min": 60000,
+        "employer": "МАСТ",
+        "link": "https://hh.ru/vacancy/79846125"
+    },
+    {
+        "title": "Python-Разработчик",
+        "salary_max": 100000,
+        "salary_min": 80000,
+        "employer": "Альфард Групп Рус",
+        "link": "https://hh.ru/vacancy/80665534"
+    },
+    {
+        "title": "Программист",
+        "salary_max": 0,
+        "salary_min": 37000,
+        "employer": "Energy-T ltd.",
+        "link": "https://hh.ru/vacancy/80214220"
+    },
+    {
+        "title": "IT специалист (стажёр)",
+        "salary_max": 0,
+        "salary_min": 20000,
+        "employer": "Kolocall",
+        "link": "https://hh.ru/vacancy/79917163"
+    },
+    {
+        "title": "Junior DevOps",
+        "salary_max": 160000,
+        "salary_min": 120000,
+        "employer": "Sminex-Интеко",
+        "link": "https://hh.ru/vacancy/80506223"
+    },
+    {
+        "title": "Тестировщик ПО",
+        "salary_max": 150000,
+        "salary_min": 110000,
+        "employer": "Смартико",
+        "link": "https://hh.ru/vacancy/79939752"
+    },
+    {
+        "title": "Младший аналитик данных",
+        "salary_max": 70000,
+        "salary_min": 0,
+        "employer": "Кредитит",
+        "link": "https://hh.ru/vacancy/80642100"
+    },
+    {
+        "title": "Data Scientist (удаленно)",
+        "salary_max": 450000,
+        "salary_min": 0,
+        "employer": "getmatch",
+        "link": "https://hh.ru/vacancy/80865579"
+    },
+    {
+        "title": "Программист Python",
+        "salary_max": 100000,
+        "salary_min": 70000,
+        "employer": "РусЭкспресс",
+        "link": "https://hh.ru/vacancy/80400921"
+    },
+    {
+        "title": "Data Engineer (удаленно)",
+        "salary_max": 350000,
+        "salary_min": 0,
+        "employer": "getmatch",
+        "link": "https://hh.ru/vacancy/80793248"
+    },
+    {
+        "title": "Веб-разработчик (Python/Django)",
+        "salary_max": 170000,
+        "salary_min": 150000,
+        "employer": "Российские космические системы",
+        "link": "https://hh.ru/vacancy/80699924"
+    },
+    {
+        "title": "Аналитик",
+        "salary_max": 120000,
+        "salary_min": 80000,
+        "employer": "Программная Палата",
+        "link": "https://hh.ru/vacancy/80830531"
+    },
+    {
+        "title": "Frontend-разработчик",
+        "salary_max": 60000,
+        "salary_min": 30000,
+        "employer": "ЭКСПРЕСС",
+        "link": "https://hh.ru/vacancy/80690762"
+    },
+    {
+        "title": "Python-разработчик",
+        "salary_max": 180000,
+        "salary_min": 120000,
+        "employer": "Digital Reputation",
+        "link": "https://hh.ru/vacancy/80881200"
+    },
+    {
+        "title": "Сотрудник техподдержки",
+        "salary_max": 150000,
+        "salary_min": 110000,
+        "employer": "Клируэй Текнолоджис",
+        "link": "https://hh.ru/vacancy/80656166"
+    },
+    {
+        "title": "Младший системный администратор",
+        "salary_max": 111000,
+        "salary_min": 100000,
+        "employer": "Никс",
+        "link": "https://hh.ru/vacancy/68489073"
+    },
+    {
+        "title": "Программист-технолог (Разметка данных)",
+        "salary_max": 60000,
+        "salary_min": 39000,
+        "employer": "Тензор",
+        "link": "https://hh.ru/vacancy/80846032"
+    },
+    {
+        "title": "DevOps-инженер / Системный администратор (удаленно)",
+        "salary_max": 90000,
+        "salary_min": 70000,
+        "employer": "Red Promo",
+        "link": "https://hh.ru/vacancy/80228006"
+    },
+    {
+        "title": "Analyst (уклон в Bi)",
+        "salary_max": 0,
+        "salary_min": 2000,
+        "employer": "Finstar Financial Group",
+        "link": "https://hh.ru/vacancy/80486022"
+    },
+    {
+        "title": "Middle product manager в Мету",
+        "salary_max": 200000,
+        "salary_min": 0,
+        "employer": "Профи (profi.ru)",
+        "link": "https://hh.ru/vacancy/78904925"
+    },
+    {
+        "title": "Junior Data scientist (Аналитик)",
+        "salary_max": 0,
+        "salary_min": 60000,
+        "employer": "Займиго МФК",
+        "link": "https://hh.ru/vacancy/78937901"
+    },
+    {
+        "title": "Аналитик в сфере международного экономического сотрудничества",
+        "salary_max": 70000,
+        "salary_min": 65000,
+        "employer": "Министерство экономического развития Российской Федерации",
+        "link": "https://hh.ru/vacancy/80692221"
+    },
+    {
+        "title": "Python-разработчик (удаленно/гибрид/релокация)",
+        "salary_max": 450000,
+        "salary_min": 0,
+        "employer": "getmatch",
+        "link": "https://hh.ru/vacancy/80795275"
+    },
+    {
+        "title": "Data Science/Data Analyst",
+        "salary_max": 0,
+        "salary_min": 120000,
+        "employer": "Ит-Финанс",
+        "link": "https://hh.ru/vacancy/80450796"
+    },
+    {
+        "title": "Системный администратор",
+        "salary_max": 200000,
+        "salary_min": 160000,
+        "employer": "Металлинвестбанк",
+        "link": "https://hh.ru/vacancy/80491722"
+    },
+    {
+        "title": "Пентестер (удаленная работа)",
+        "salary_max": 0,
+        "salary_min": 120000,
+        "employer": "8 лет на мировом рынке ИТ-услуг",
+        "link": "https://hh.ru/vacancy/78573445"
+    },
+    {
+        "title": "Junior Data Engineer (Data Steward)",
+        "salary_max": 0,
+        "salary_min": 85000,
+        "employer": "Ангара Сервис",
+        "link": "https://hh.ru/vacancy/80602682"
+    },
+    {
+        "title": "Front-end разработчик",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "UtiNet",
+        "link": "https://hh.ru/vacancy/79716552"
+    },
+    {
+        "title": "Data Engineer (Junior)",
+        "salary_max": 70000,
+        "salary_min": 55000,
+        "employer": "Строительный Двор",
+        "link": "https://hh.ru/vacancy/80894447"
+    },
+    {
+        "title": "Site Reliability Engineer (Нидерланды/Сербия)",
+        "salary_max": 500000,
+        "salary_min": 400000,
+        "employer": "Hunt For You",
+        "link": "https://hh.ru/vacancy/80114694"
+    },
+    {
+        "title": "Разработчик Python",
+        "salary_max": 0,
+        "salary_min": 90000,
+        "employer": "Информационный центр Аптекарь",
+        "link": "https://hh.ru/vacancy/80622550"
+    },
+    {
+        "title": "Программист / Специалист по компьютерному зрению Junior",
+        "salary_max": 120000,
+        "salary_min": 80000,
+        "employer": "Специальный Технологический Центр (ООО СТЦ)",
+        "link": "https://hh.ru/vacancy/80845401"
+    },
+    {
+        "title": "Сетевой инженер",
+        "salary_max": 0,
+        "salary_min": 140000,
+        "employer": "Росинжиниринг, Компания",
+        "link": "https://hh.ru/vacancy/80565484"
+    },
+    {
+        "title": "Python / django разработчик",
+        "salary_max": 0,
+        "salary_min": 70000,
+        "employer": "Иторум",
+        "link": "https://hh.ru/vacancy/80605552"
+    },
+    {
+        "title": "Manual QA Engineer",
+        "salary_max": 0,
+        "salary_min": 130000,
+        "employer": "BestDoctor",
+        "link": "https://hh.ru/vacancy/79222473"
+    },
+    {
+        "title": "Аналитик / помощник аналитика",
+        "salary_max": 70000,
+        "salary_min": 40000,
+        "employer": "Shturman",
+        "link": "https://hh.ru/vacancy/80051979"
+    },
+    {
+        "title": "Ведущий системный администратор",
+        "salary_max": 0,
+        "salary_min": 60000,
+        "employer": "Триумф-Плаза",
+        "link": "https://hh.ru/vacancy/80706721"
+    },
+    {
+        "title": "Инженер Linux",
+        "salary_max": 170000,
+        "salary_min": 100000,
+        "employer": "Southbridge",
+        "link": "https://hh.ru/vacancy/80829942"
+    },
+    {
+        "title": "Программист-аналитик",
+        "salary_max": 60000,
+        "salary_min": 50000,
+        "employer": "TECCOD",
+        "link": "https://hh.ru/vacancy/80843298"
+    },
+    {
+        "title": "Python разработчик",
+        "salary_max": 0,
+        "salary_min": 80000,
+        "employer": "Спутник",
+        "link": "https://hh.ru/vacancy/79927267"
+    },
+    {
+        "title": "Fraud Analyst",
+        "salary_max": 5000,
+        "salary_min": 3500,
+        "employer": "Luxemo Limited",
+        "link": "https://hh.ru/vacancy/80367424"
+    },
+    {
+        "title": "Стажер в отдел разработки прикладного ПО",
+        "salary_max": 40000,
+        "salary_min": 40000,
+        "employer": "Mediascope",
+        "link": "https://hh.ru/vacancy/80357630"
+    },
+    {
+        "title": "Python Developer",
+        "salary_max": 0,
+        "salary_min": 75000,
+        "employer": "CyberSecurity Technologies",
+        "link": "https://hh.ru/vacancy/80398043"
+    },
+    {
+        "title": "Embeded Программист/разработчик БПЛА (Беспилотных летательных аппаратов)",
+        "salary_max": 0,
+        "salary_min": 200000,
+        "employer": "БЕТА",
+        "link": "https://hh.ru/vacancy/79696064"
+    },
+    {
+        "title": "Аналитик",
+        "salary_max": 0,
+        "salary_min": 100000,
+        "employer": "Осмокод",
+        "link": "https://hh.ru/vacancy/79793113"
+    },
+    {
+        "title": "Стажер аналитик данных",
+        "salary_max": 45000,
+        "salary_min": 45000,
+        "employer": "Х5 Group",
+        "link": "https://hh.ru/vacancy/80214260"
+    },
+    {
+        "title": "Тестировщик ПО",
+        "salary_max": 90000,
+        "salary_min": 90000,
+        "employer": "Московский филиал АО ЦентрИнформ",
+        "link": "https://hh.ru/vacancy/80360527"
+    },
+    {
+        "title": "QA-инженер со знанием языков программирования",
+        "salary_max": 35000,
+        "salary_min": 0,
+        "employer": "SILA Union",
+        "link": "https://hh.ru/vacancy/80678389"
+    },
+    {
+        "title": "Программист бекенд (backend)",
+        "salary_max": 0,
+        "salary_min": 100000,
+        "employer": "E-Publish",
+        "link": "https://hh.ru/vacancy/80723103"
+    },
+    {
+        "title": "Веб-программист (frontend, backend)",
+        "salary_max": 100000,
+        "salary_min": 0,
+        "employer": "Интернет-агентство Пегас",
+        "link": "https://hh.ru/vacancy/80890950"
+    },
+    {
+        "title": "Frontend JS разработчик (офис, Санкт-Петербург)",
+        "salary_max": 200000,
+        "salary_min": 80000,
+        "employer": "Агентство 21 век, КЦ",
+        "link": "https://hh.ru/vacancy/79724994"
+    },
+    {
+        "title": "Системный администратор Windows",
+        "salary_max": 166500,
+        "salary_min": 150000,
+        "employer": "Никс",
+        "link": "https://hh.ru/vacancy/78396680"
+    },
+    {
+        "title": "Python Developer",
+        "salary_max": 100000,
+        "salary_min": 0,
+        "employer": "РБ",
+        "link": "https://hh.ru/vacancy/80068820"
+    },
+    {
+        "title": "Junior DevOps",
+        "salary_max": 0,
+        "salary_min": 45000,
+        "employer": "Траектория",
+        "link": "https://hh.ru/vacancy/80034814"
+    },
+    {
+        "title": "Data Scientist",
+        "salary_max": 350000,
+        "salary_min": 250000,
+        "employer": "Aimers",
+        "link": "https://hh.ru/vacancy/80412928"
+    },
+    {
+        "title": "Аналитик (исследования по открытым источникам/open-source research)",
+        "salary_max": 75000,
+        "salary_min": 75000,
+        "employer": "ТехАудит",
+        "link": "https://hh.ru/vacancy/80615027"
+    },
+    {
+        "title": "Python-разработчик (remote)",
+        "salary_max": 450000,
+        "salary_min": 0,
+        "employer": "getmatch",
+        "link": "https://hh.ru/vacancy/80478403"
+    },
+    {
+        "title": "Product Analyst",
+        "salary_max": 260000,
+        "salary_min": 180000,
+        "employer": "Innovative People",
+        "link": "https://hh.ru/vacancy/79877191"
+    },
+    {
+        "title": "Системный администратор",
+        "salary_max": 75000,
+        "salary_min": 50000,
+        "employer": "Сайт покупок",
+        "link": "https://hh.ru/vacancy/80649966"
+    },
+    {
+        "title": "Finance Manager (Remote)",
+        "salary_max": 0,
+        "salary_min": 3000,
+        "employer": "LATOKEN",
+        "link": "https://hh.ru/vacancy/80874233"
+    },
+    {
+        "title": "Программист БПЛА",
+        "salary_max": 200000,
+        "salary_min": 120000,
+        "employer": "Лаборатория будущего",
+        "link": "https://hh.ru/vacancy/80331717"
+    },
+    {
+        "title": "QA инженер",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "БК Олимп",
+        "link": "https://hh.ru/vacancy/80160141"
+    },
+    {
+        "title": "Junior / Middle Backend Web Developer (Python)",
+        "salary_max": 80000,
+        "salary_min": 0,
+        "employer": "Новакабель",
+        "link": "https://hh.ru/vacancy/79936952"
+    },
+    {
+        "title": "Product Analyst",
+        "salary_max": 0,
+        "salary_min": 4000,
+        "employer": "Mayflower",
+        "link": "https://hh.ru/vacancy/80734208"
+    },
+    {
+        "title": "Аналитик",
+        "salary_max": 115000,
+        "salary_min": 115000,
+        "employer": "ГЛОРИЯ ДЖИНС",
+        "link": "https://hh.ru/vacancy/80153893"
+    },
+    {
+        "title": "Senior Frontend Developer",
+        "salary_max": 6000,
+        "salary_min": 4000,
+        "employer": "Podscribe",
+        "link": "https://hh.ru/vacancy/80202417"
+    },
+    {
+        "title": "Data scientist (Junior) в консалтинг",
+        "salary_max": 0,
+        "salary_min": 40000,
+        "employer": "БСТ Менеджмент-Консалтинг",
+        "link": "https://hh.ru/vacancy/79717287"
+    },
+    {
+        "title": "Разработчик PHP (бекендер)",
+        "salary_max": 0,
+        "salary_min": 80000,
+        "employer": "Шерпа Роботикс",
+        "link": "https://hh.ru/vacancy/80832904"
+    },
+    {
+        "title": "Младший специалист по тестированию на проникновение (пентестер/pentester)",
+        "salary_max": 0,
+        "salary_min": 60000,
+        "employer": "Дейтерий",
+        "link": "https://hh.ru/vacancy/80530219"
+    },
+    {
+        "title": "Backend-разработчик (Python)",
+        "salary_max": 0,
+        "salary_min": 120000,
+        "employer": "Инвентос",
+        "link": "https://hh.ru/vacancy/80842948"
+    },
+    {
+        "title": "Data Analyst / Аналитик данных",
+        "salary_max": 0,
+        "salary_min": 60000,
+        "employer": "Некст Левел",
+        "link": "https://hh.ru/vacancy/80324024"
+    },
+    {
+        "title": "DevOps инженер / Ведущий инженер поддержки инфраструктуры",
+        "salary_max": 450000,
+        "salary_min": 300000,
+        "employer": "ДипХакЛаб",
+        "link": "https://hh.ru/vacancy/80658522"
+    },
+    {
+        "title": "Программист Python (Junior)",
+        "salary_max": 0,
+        "salary_min": 30000,
+        "employer": "Открытые Бизнес Технологии",
+        "link": "https://hh.ru/vacancy/79995246"
+    },
+    {
+        "title": "Сетевой администратор",
+        "salary_max": 0,
+        "salary_min": 120000,
+        "employer": "АГД ДАЙМОНДС",
+        "link": "https://hh.ru/vacancy/79740748"
+    },
+    {
+        "title": "Machine Learning - Deep Learning engineer",
+        "salary_max": 0,
+        "salary_min": 250000,
+        "employer": "БЕТА",
+        "link": "https://hh.ru/vacancy/80513064"
+    },
+    {
+        "title": "Python-разработчик",
+        "salary_max": 0,
+        "salary_min": 100000,
+        "employer": "А-Контракт",
+        "link": "https://hh.ru/vacancy/80871185"
+    },
+    {
+        "title": "Middle PHP разработчик",
+        "salary_max": 200000,
+        "salary_min": 170000,
+        "employer": "Watt",
+        "link": "https://hh.ru/vacancy/80787213"
+    },
+    {
+        "title": "QA-инженер/тестировщик ПО (Web)",
+        "salary_max": 180000,
+        "salary_min": 0,
+        "employer": "Перспективный стартап",
+        "link": "https://hh.ru/vacancy/79049590"
+    },
+    {
+        "title": "Ведущий менеджер по продажам (без поиска клиентов)",
+        "salary_max": 0,
+        "salary_min": 200000,
+        "employer": "Школа программирования для детей Code-Class",
+        "link": "https://hh.ru/vacancy/80747660"
+    },
+    {
+        "title": "Программист",
+        "salary_max": 90000,
+        "salary_min": 50000,
+        "employer": "ЦНИИ РТК",
+        "link": "https://hh.ru/vacancy/80251282"
+    },
+    {
+        "title": "Системный администратор",
+        "salary_max": 120000,
+        "salary_min": 100000,
+        "employer": "Carprice",
+        "link": "https://hh.ru/vacancy/79827176"
+    },
+    {
+        "title": "ETL-Developer (Стажёр)",
+        "salary_max": 35000,
+        "salary_min": 0,
+        "employer": "М.Видео-Эльдорадо",
+        "link": "https://hh.ru/vacancy/80499409"
+    },
+    {
+        "title": "Программист-разработчик (Python)",
+        "salary_max": 90000,
+        "salary_min": 70000,
+        "employer": "Телекоммуникационная Компания Телезон",
+        "link": "https://hh.ru/vacancy/80402866"
+    },
+    {
+        "title": "Программист отдела развития и автоматизации",
+        "salary_max": 150000,
+        "salary_min": 100000,
+        "employer": "Уфанет",
+        "link": "https://hh.ru/vacancy/80861944"
+    },
+    {
+        "title": "DevOps специалист",
+        "salary_max": 0,
+        "salary_min": 100000,
+        "employer": "Компания ТЕХНОТЕКС",
+        "link": "https://hh.ru/vacancy/80795993"
+    },
+    {
+        "title": "QA engineer / Тестировщик (тестирование web-проектов)",
+        "salary_max": 80000,
+        "salary_min": 40000,
+        "employer": "Онпик",
+        "link": "https://hh.ru/vacancy/77899303"
+    },
+    {
+        "title": "QA Engineer / Тестировщик ПО",
+        "salary_max": 70000,
+        "salary_min": 60000,
+        "employer": "Densure",
+        "link": "https://hh.ru/vacancy/79720317"
+    },
+    {
+        "title": "Программист",
+        "salary_max": 120000,
+        "salary_min": 70000,
+        "employer": "ITEM (ООО Мегалит-Проект)",
+        "link": "https://hh.ru/vacancy/80727924"
+    },
+    {
+        "title": "Программист С++",
+        "salary_max": 350000,
+        "salary_min": 220000,
+        "employer": "БИФИТ",
+        "link": "https://hh.ru/vacancy/80426292"
+    },
+    {
+        "title": "DevOps инженер (junior)",
+        "salary_max": 0,
+        "salary_min": 110000,
+        "employer": "Системные Технологии",
+        "link": "https://hh.ru/vacancy/80447254"
+    },
+    {
+        "title": "Разработчик программного обеспечения",
+        "salary_max": 150000,
+        "salary_min": 0,
+        "employer": "ЭДИСОН",
+        "link": "https://hh.ru/vacancy/80715142"
+    },
+    {
+        "title": "Программист Python",
+        "salary_max": 0,
+        "salary_min": 200000,
+        "employer": "Джетлин",
+        "link": "https://hh.ru/vacancy/80795255"
+    },
+    {
+        "title": "Principal Software Engineer",
+        "salary_max": 9000,
+        "salary_min": 6000,
+        "employer": "Podscribe",
+        "link": "https://hh.ru/vacancy/80563849"
+    },
+    {
+        "title": "Junior разработчик",
+        "salary_max": 0,
+        "salary_min": 47600,
+        "employer": "СБЕР",
+        "link": "https://hh.ru/vacancy/80883456"
+    },
+    {
+        "title": "Junior Python разработчик",
+        "salary_max": 50000,
+        "salary_min": 40000,
+        "employer": "БВК",
+        "link": "https://hh.ru/vacancy/80074829"
+    },
+    {
+        "title": "Python-разработчик",
+        "salary_max": 170000,
+        "salary_min": 110000,
+        "employer": "Spectr",
+        "link": "https://hh.ru/vacancy/80696600"
+    },
+    {
+        "title": "Младший научный сотрудник",
+        "salary_max": 0,
+        "salary_min": 75000,
+        "employer": "Вектор-Бест",
+        "link": "https://hh.ru/vacancy/78123811"
+    },
+    {
+        "title": "Junior Python developer",
+        "salary_max": 90000,
+        "salary_min": 50000,
+        "employer": "АЛГОНТ",
+        "link": "https://hh.ru/vacancy/79885796"
+    },
+    {
+        "title": "Веб-разработчик",
+        "salary_max": 140000,
+        "salary_min": 100000,
+        "employer": "НАУЧНО-КЛИНИЧЕСКИЙ ЦЕНТР КАРПОВКА",
+        "link": "https://hh.ru/vacancy/80708695"
+    },
+    {
+        "title": "Python Backend Developer (Remote)",
+        "salary_max": 350000,
+        "salary_min": 200000,
+        "employer": "JetLend",
+        "link": "https://hh.ru/vacancy/80298304"
+    },
+    {
+        "title": "Программист (Full Stack Developer)",
+        "salary_max": 150000,
+        "salary_min": 40000,
+        "employer": "Онсофт",
+        "link": "https://hh.ru/vacancy/80885412"
+    },
+    {
+        "title": "Инженер технической поддержки",
+        "salary_max": 100000,
+        "salary_min": 60000,
+        "employer": "Ардис",
+        "link": "https://hh.ru/vacancy/79947414"
+    },
+    {
+        "title": "Backend разработчик (PHP, Laravel)",
+        "salary_max": 0,
+        "salary_min": 100000,
+        "employer": "Медгуру",
+        "link": "https://hh.ru/vacancy/79956677"
+    },
+    {
+        "title": "Python тестировщик",
+        "salary_max": 125000,
+        "salary_min": 0,
+        "employer": "Лаборатория Наносемантика",
+        "link": "https://hh.ru/vacancy/80830950"
+    },
+    {
+        "title": "Web-программист Python+Django (удаленно)",
+        "salary_max": 80000,
+        "salary_min": 45000,
+        "employer": "NOVA",
+        "link": "https://hh.ru/vacancy/79908693"
+    },
+    {
+        "title": "Младший программист-разработчик ERP",
+        "salary_max": 0,
+        "salary_min": 80000,
+        "employer": "Компас",
+        "link": "https://hh.ru/vacancy/80460430"
+    },
+    {
+        "title": "Проектный менеджер / Project Manager",
+        "salary_max": 120000,
+        "salary_min": 80000,
+        "employer": "SPIKS",
+        "link": "https://hh.ru/vacancy/80519525"
+    },
+    {
+        "title": "Data Engineering Intern",
+        "salary_max": 0,
+        "salary_min": 85000,
+        "employer": "Procter & Gamble",
+        "link": "https://hh.ru/vacancy/79190614"
+    },
+    {
+        "title": "React Developer",
+        "salary_max": 0,
+        "salary_min": 67000,
+        "employer": "Fojin",
+        "link": "https://hh.ru/vacancy/80035520"
+    },
+    {
+        "title": "Куратор онлайн-курсов",
+        "salary_max": 0,
+        "salary_min": 15000,
+        "employer": "ProductStar",
+        "link": "https://hh.ru/vacancy/80377830"
+    },
+    {
+        "title": "Python Developer",
+        "salary_max": 200000,
+        "salary_min": 100000,
+        "employer": "ORBIS",
+        "link": "https://hh.ru/vacancy/79724327"
+    },
+    {
+        "title": "ML-разработчик",
+        "salary_max": 200000,
+        "salary_min": 150000,
+        "employer": "Видеоинтеллект",
+        "link": "https://hh.ru/vacancy/80700655"
+    },
+    {
+        "title": "Главный эксперт отдела телекоммуникаций (сетевой инженер Cisco)",
+        "salary_max": 0,
+        "salary_min": 260000,
+        "employer": "Авангард, АКБ",
+        "link": "https://hh.ru/vacancy/80512039"
+    },
+    {
+        "title": "Junior system administrator",
+        "salary_max": 0,
+        "salary_min": 300,
+        "employer": "Tickeron, Inc",
+        "link": "https://hh.ru/vacancy/80168854"
+    },
+    {
+        "title": "Программист JS",
+        "salary_max": 220000,
+        "salary_min": 125000,
+        "employer": "Тензор",
+        "link": "https://hh.ru/vacancy/80505490"
+    },
+    {
+        "title": "Инженер сети связи (NOC)",
+        "salary_max": 220000,
+        "salary_min": 120000,
+        "employer": "Инетком",
+        "link": "https://hh.ru/vacancy/80357354"
+    },
+    {
+        "title": "Инженер-электронщик",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "Ампермагнит",
+        "link": "https://hh.ru/vacancy/80024936"
+    },
+    {
+        "title": "Программист Java, Python, C+++",
+        "salary_max": 50000,
+        "salary_min": 25000,
+        "employer": "МБУ ДО Центр Развития Детей и Юношества На Основе Инновационных Технологий",
+        "link": "https://hh.ru/vacancy/80630332"
+    },
+    {
+        "title": "Reverse Engineer",
+        "salary_max": 500000,
+        "salary_min": 400000,
+        "employer": "АСТ",
+        "link": "https://hh.ru/vacancy/75692586"
+    },
+    {
+        "title": "Аналитик данных",
+        "salary_max": 56000,
+        "salary_min": 43000,
+        "employer": "Головное подразделение Сибагро",
+        "link": "https://hh.ru/vacancy/80634422"
+    },
+    {
+        "title": "Веб-программист",
+        "salary_max": 40000,
+        "salary_min": 40000,
+        "employer": "ФАУ ГНИИИ ПТЗИ ФСТЭК России",
+        "link": "https://hh.ru/vacancy/79731846"
+    },
+    {
+        "title": "Аналитик ГЕО данных",
+        "salary_max": 0,
+        "salary_min": 110000,
+        "employer": "ГАУ ИНСТИТУТ ГЕНПЛАНА МОСКВЫ",
+        "link": "https://hh.ru/vacancy/80212925"
+    },
+    {
+        "title": "Системный администратор",
+        "salary_max": 0,
+        "salary_min": 100000,
+        "employer": "ФГБУ Центр Информационно-Технического Обеспечения",
+        "link": "https://hh.ru/vacancy/80291857"
+    },
+    {
+        "title": "QA Тестировщик (ФТ)",
+        "salary_max": 200000,
+        "salary_min": 140000,
+        "employer": "Devquality",
+        "link": "https://hh.ru/vacancy/80307024"
+    },
+    {
+        "title": "HTML-верстальщик",
+        "salary_max": 110000,
+        "salary_min": 60000,
+        "employer": "Айти-Продвижение",
+        "link": "https://hh.ru/vacancy/80391496"
+    },
+    {
+        "title": "Аналитик данных",
+        "salary_max": 0,
+        "salary_min": 80000,
+        "employer": "Эй Джи Ти",
+        "link": "https://hh.ru/vacancy/80419322"
+    },
+    {
+        "title": "Программист SQL",
+        "salary_max": 0,
+        "salary_min": 50000,
+        "employer": "Микстелл",
+        "link": "https://hh.ru/vacancy/80512916"
+    },
+    {
+        "title": "Python Developer",
+        "salary_max": 0,
+        "salary_min": 80000,
+        "employer": "Вотчит.Ру",
+        "link": "https://hh.ru/vacancy/80323297"
+    },
+    {
+        "title": "Инженер Linux",
+        "salary_max": 170000,
+        "salary_min": 100000,
+        "employer": "Southbridge",
+        "link": "https://hh.ru/vacancy/80829941"
+    },
+    {
+        "title": "Начинающий программист C++",
+        "salary_max": 60000,
+        "salary_min": 30000,
+        "employer": "PVS-Studio",
+        "link": "https://hh.ru/vacancy/78822675"
+    },
+    {
+        "title": "Стажёр в отдел IT (Программа Звезды Балтики)",
+        "salary_max": 43000,
+        "salary_min": 0,
+        "employer": "Пивоваренная компания Балтика, часть Carlsberg Group",
+        "link": "https://hh.ru/vacancy/79971863"
+    },
+    {
+        "title": "Разработчик Python",
+        "salary_max": 200000,
+        "salary_min": 0,
+        "employer": "Softline",
+        "link": "https://hh.ru/vacancy/79976368"
+    },
+    {
+        "title": "Программист Python (Django)",
+        "salary_max": 150000,
+        "salary_min": 100000,
+        "employer": "Студия Сайтов",
+        "link": "https://hh.ru/vacancy/80235889"
+    },
+    {
+        "title": "Ведущий экономист",
+        "salary_max": 0,
+        "salary_min": 80000,
+        "employer": "Сеть",
+        "link": "https://hh.ru/vacancy/79973277"
+    },
+    {
+        "title": "Эксперт 1 линии SOC",
+        "salary_max": 0,
+        "salary_min": 65000,
+        "employer": "ГБУ НСО ЦЗИ НСО",
+        "link": "https://hh.ru/vacancy/72211297"
+    },
+    {
+        "title": "Аналитик/ Разработчик дашбордов",
+        "salary_max": 80000,
+        "salary_min": 0,
+        "employer": "Волкрафт",
+        "link": "https://hh.ru/vacancy/79668388"
+    },
+    {
+        "title": "Тестировщик ПО (Middle QA)",
+        "salary_max": 80000,
+        "salary_min": 50000,
+        "employer": "Сетевые решения",
+        "link": "https://hh.ru/vacancy/80183064"
+    },
+    {
+        "title": "Data-аналитик",
+        "salary_max": 0,
+        "salary_min": 200000,
+        "employer": "ЕВРОПЕЙСКИЙ МЕДИЦИНСКИЙ ЦЕНТР",
+        "link": "https://hh.ru/vacancy/80415898"
+    },
+    {
+        "title": "Java-разработчик",
+        "salary_max": 200000,
+        "salary_min": 100000,
+        "employer": "АкадемСофт",
+        "link": "https://hh.ru/vacancy/80789621"
+    },
+    {
+        "title": "Python Developer (Middle)",
+        "salary_max": 160000,
+        "salary_min": 0,
+        "employer": "SCENA",
+        "link": "https://hh.ru/vacancy/80515271"
+    },
+    {
+        "title": "Инженер-программист Банка",
+        "salary_max": 65000,
+        "salary_min": 50000,
+        "employer": "Экономбанк",
+        "link": "https://hh.ru/vacancy/79185872"
+    },
+    {
+        "title": "Руководитель отдела разработки",
+        "salary_max": 400000,
+        "salary_min": 0,
+        "employer": "Неовокс Технологии",
+        "link": "https://hh.ru/vacancy/80839894"
+    },
+    {
+        "title": "Программист Python",
+        "salary_max": 220000,
+        "salary_min": 125000,
+        "employer": "Тензор",
+        "link": "https://hh.ru/vacancy/80505531"
+    },
+    {
+        "title": "Психометрик/тестолог",
+        "salary_max": 0,
+        "salary_min": 80000,
+        "employer": "Издательство «Национальное образование»",
+        "link": "https://hh.ru/vacancy/80529669"
+    },
+    {
+        "title": "Стажер компьютерный криминалист",
+        "salary_max": 23000,
+        "salary_min": 21600,
+        "employer": "ФБУ Иркутская лаборатория судебной экспертизы Минюста России",
+        "link": "https://hh.ru/vacancy/80093509"
+    },
+    {
+        "title": "Тестировщик программного обеспечения",
+        "salary_max": 100000,
+        "salary_min": 60000,
+        "employer": "ГК Системы и Технологии",
+        "link": "https://hh.ru/vacancy/72551263"
+    },
+    {
+        "title": "Python разработчик",
+        "salary_max": 250000,
+        "salary_min": 0,
+        "employer": "Kvando Technologies",
+        "link": "https://hh.ru/vacancy/79742922"
+    },
+    {
+        "title": "Аналитик по фармаэкономике (м. Савеловская)",
+        "salary_max": 0,
+        "salary_min": 120000,
+        "employer": "ГБУЗ ЦЛО ДЗМ",
+        "link": "https://hh.ru/vacancy/80579822"
+    },
+    {
+        "title": "Главный специалист отдела информационных технологий",
+        "salary_max": 82552,
+        "salary_min": 82552,
+        "employer": "Росжелдорпроект",
+        "link": "https://hh.ru/vacancy/80880139"
+    },
+    {
+        "title": "Разработчик ПО",
+        "salary_max": 0,
+        "salary_min": 100000,
+        "employer": "Прогматик Лаб",
+        "link": "https://hh.ru/vacancy/46648891"
+    },
+    {
+        "title": "Руководитель направления C&B (бюджетирование)",
+        "salary_max": 300000,
+        "salary_min": 0,
+        "employer": "Крупный российский банк из ТОП-20, более 15 лет на рынке.",
+        "link": "https://hh.ru/vacancy/80824769"
+    },
+    {
+        "title": "QA Engineer / Инженер по качеству",
+        "salary_max": 100000,
+        "salary_min": 50000,
+        "employer": "Nord.Codes",
+        "link": "https://hh.ru/vacancy/79090619"
+    },
+    {
+        "title": "Младший разработчик SQL-аналитик данных",
+        "salary_max": 0,
+        "salary_min": 47600,
+        "employer": "СБЕР",
+        "link": "https://hh.ru/vacancy/80795812"
+    },
+    {
+        "title": "Python (Django) Developer",
+        "salary_max": 0,
+        "salary_min": 90000,
+        "employer": "Инвестрентстрой",
+        "link": "https://hh.ru/vacancy/79923658"
+    },
+    {
+        "title": "Руководитель направления по данным",
+        "salary_max": 0,
+        "salary_min": 400000,
+        "employer": "Автостэлс",
+        "link": "https://hh.ru/vacancy/76693747"
+    },
+    {
+        "title": "Python-developer",
+        "salary_max": 215000,
+        "salary_min": 100000,
+        "employer": "Тензор",
+        "link": "https://hh.ru/vacancy/67635148"
+    },
+    {
+        "title": "Младший аналитик данных",
+        "salary_max": 90000,
+        "salary_min": 0,
+        "employer": "Ростелеком-Солар",
+        "link": "https://hh.ru/vacancy/79481583"
+    },
+    {
+        "title": "Backend разработчик / инженер-программист (в офис)",
+        "salary_max": 0,
+        "salary_min": 30000,
+        "employer": "Малороссиянов Иван Александрович",
+        "link": "https://hh.ru/vacancy/80201594"
+    },
+    {
+        "title": "Менеджер информационных систем",
+        "salary_max": 0,
+        "salary_min": 70000,
+        "employer": "Эй Джи Ти",
+        "link": "https://hh.ru/vacancy/80218331"
+    },
+    {
+        "title": "Data Scientist",
+        "salary_max": 450000,
+        "salary_min": 0,
+        "employer": "getmatch",
+        "link": "https://hh.ru/vacancy/80050640"
+    },
+    {
+        "title": "Веб-разработчик",
+        "salary_max": 0,
+        "salary_min": 60000,
+        "employer": "Уфимский Университет Науки и Технологий",
+        "link": "https://hh.ru/vacancy/79880608"
+    },
+    {
+        "title": "ML-специалист (Junior)",
+        "salary_max": 2000,
+        "salary_min": 1000,
+        "employer": "ГравиЛинк",
+        "link": "https://hh.ru/vacancy/76086723"
+    },
+    {
+        "title": "Лидер исследователей данных/удаленно",
+        "salary_max": 0,
+        "salary_min": 300000,
+        "employer": "ВкусВилл",
+        "link": "https://hh.ru/vacancy/79472564"
+    },
+    {
+        "title": "Руководитель проекта",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "Инновационный центр КАМАЗ",
+        "link": "https://hh.ru/vacancy/80373552"
+    },
+    {
+        "title": "Data Scientist",
+        "salary_max": 180000,
+        "salary_min": 160000,
+        "employer": "CyberPhysics",
+        "link": "https://hh.ru/vacancy/80281257"
+    },
+    {
+        "title": "Product Analyst",
+        "salary_max": 450000,
+        "salary_min": 0,
+        "employer": "getmatch",
+        "link": "https://hh.ru/vacancy/80053134"
+    },
+    {
+        "title": "Разработчик С/С++ (embedded linux)",
+        "salary_max": 0,
+        "salary_min": 250000,
+        "employer": "Путова Анастасия Александровна",
+        "link": "https://hh.ru/vacancy/80864354"
+    },
+    {
+        "title": "Стажер в команду управления мастер-данными",
+        "salary_max": 40000,
+        "salary_min": 40000,
+        "employer": "Mediascope",
+        "link": "https://hh.ru/vacancy/80611201"
+    },
+    {
+        "title": "Аналитик управления продаж",
+        "salary_max": 63000,
+        "salary_min": 0,
+        "employer": "CarMoney",
+        "link": "https://hh.ru/vacancy/80155116"
+    },
+    {
+        "title": "Аналитик",
+        "salary_max": 80000,
+        "salary_min": 70000,
+        "employer": "585, Золотой",
+        "link": "https://hh.ru/vacancy/80837229"
+    },
+    {
+        "title": "Программист C++ (GUI Qt)",
+        "salary_max": 350000,
+        "salary_min": 0,
+        "employer": "Ventra IT Solutions",
+        "link": "https://hh.ru/vacancy/80451406"
+    },
+    {
+        "title": "Инженер технической поддержки",
+        "salary_max": 93000,
+        "salary_min": 80000,
+        "employer": "ВижнЛабс (VisionLabs)",
+        "link": "https://hh.ru/vacancy/74012841"
+    },
+    {
+        "title": "Лаборант-исследователь/Инженер-исследователь",
+        "salary_max": 0,
+        "salary_min": 60000,
+        "employer": "НИЦ КУРЧАТОВСКИЙ ИНСТИТУТ",
+        "link": "https://hh.ru/vacancy/80835436"
+    },
+    {
+        "title": "Главный специалист отдела функционирования сетей и ЦОД (системный администратор)",
+        "salary_max": 99200,
+        "salary_min": 71500,
+        "employer": "ОГКУ Центр Информационно-Технического Обслуживания",
+        "link": "https://hh.ru/vacancy/80477120"
+    },
+    {
+        "title": "Python Developer (Django/DRF/Grafene)",
+        "salary_max": 4200,
+        "salary_min": 0,
+        "employer": "Urbamatica",
+        "link": "https://hh.ru/vacancy/80667099"
+    },
+    {
+        "title": "UI/UX Designer",
+        "salary_max": 0,
+        "salary_min": 34500,
+        "employer": "Fojin",
+        "link": "https://hh.ru/vacancy/79821568"
+    },
+    {
+        "title": "Unity developer/С#",
+        "salary_max": 0,
+        "salary_min": 60000,
+        "employer": "ИТ-Сервис",
+        "link": "https://hh.ru/vacancy/79757150"
+    },
+    {
+        "title": "Программист уверенный МИДЛ",
+        "salary_max": 150000,
+        "salary_min": 60000,
+        "employer": "АМС ГРУПП",
+        "link": "https://hh.ru/vacancy/79480977"
+    },
+    {
+        "title": "Инженер по тестированию интеграционных решений",
+        "salary_max": 170000,
+        "salary_min": 130000,
+        "employer": "ИСТ",
+        "link": "https://hh.ru/vacancy/80738044"
+    },
+    {
+        "title": "Системный администратор",
+        "salary_max": 0,
+        "salary_min": 100000,
+        "employer": "Francesco Donni, Сеть магазинов",
+        "link": "https://hh.ru/vacancy/80896088"
+    },
+    {
+        "title": "Senior Backend Engineer",
+        "salary_max": 7000,
+        "salary_min": 5000,
+        "employer": "Podscribe",
+        "link": "https://hh.ru/vacancy/80534396"
+    },
+    {
+        "title": "Python разработчик",
+        "salary_max": 200000,
+        "salary_min": 0,
+        "employer": "СБЕР",
+        "link": "https://hh.ru/vacancy/80652305"
+    },
+    {
+        "title": "Программист",
+        "salary_max": 0,
+        "salary_min": 70000,
+        "employer": "ДиЛор",
+        "link": "https://hh.ru/vacancy/80177184"
+    },
+    {
+        "title": "Руководитель направления разработки",
+        "salary_max": 520000,
+        "salary_min": 355000,
+        "employer": "Тензор",
+        "link": "https://hh.ru/vacancy/78277352"
+    },
+    {
+        "title": "Специалист сопровождения ИТ-портала (офис)",
+        "salary_max": 235000,
+        "salary_min": 0,
+        "employer": "Outlines Technologies",
+        "link": "https://hh.ru/vacancy/80506694"
+    },
+    {
+        "title": "Инженер 2 линии технической поддержки",
+        "salary_max": 0,
+        "salary_min": 90000,
+        "employer": "СБЕР",
+        "link": "https://hh.ru/vacancy/76221794"
+    },
+    {
+        "title": "Fullstack web-разработчик",
+        "salary_max": 0,
+        "salary_min": 40000,
+        "employer": "SciOffice",
+        "link": "https://hh.ru/vacancy/79763126"
+    },
+    {
+        "title": "Аналитик группы отчетности",
+        "salary_max": 0,
+        "salary_min": 80000,
+        "employer": "Комус",
+        "link": "https://hh.ru/vacancy/78658338"
+    },
+    {
+        "title": "Data аналитик",
+        "salary_max": 193000,
+        "salary_min": 0,
+        "employer": "Coleman Group",
+        "link": "https://hh.ru/vacancy/80159513"
+    },
+    {
+        "title": "Системный администратор Linux\\SRE\\DevOps / удаленно",
+        "salary_max": 300000,
+        "salary_min": 200000,
+        "employer": "ВкусВилл",
+        "link": "https://hh.ru/vacancy/80912255"
+    },
+    {
+        "title": "Python Backend Developer",
+        "salary_max": 4000,
+        "salary_min": 2000,
+        "employer": "Кварта-Рад",
+        "link": "https://hh.ru/vacancy/80407128"
+    },
+    {
+        "title": "Аналитик Excel /BI",
+        "salary_max": 70000,
+        "salary_min": 65000,
+        "employer": "СПб ГКУ Центр Архивных Документов",
+        "link": "https://hh.ru/vacancy/77665413"
+    },
+    {
+        "title": "Помощник по контекстной рекламе / Помощник интернет-маркетолога",
+        "salary_max": 60000,
+        "salary_min": 35000,
+        "employer": "Ай Ти Констракт Маркетинг",
+        "link": "https://hh.ru/vacancy/78545439"
+    },
+    {
+        "title": "Лингвист-аналитик",
+        "salary_max": 0,
+        "salary_min": 95000,
+        "employer": "Megaputer Intelligence, Компания",
+        "link": "https://hh.ru/vacancy/71260107"
+    },
+    {
+        "title": "Инженер-программист",
+        "salary_max": 0,
+        "salary_min": 40000,
+        "employer": "Межрегиональный отдел психологической работы УФСИН России по Ярославской области",
+        "link": "https://hh.ru/vacancy/80050730"
+    },
+    {
+        "title": "Ведущий тестировщик (Зеленоград)",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "Zelax",
+        "link": "https://hh.ru/vacancy/80880160"
+    },
+    {
+        "title": "Аналитик данных",
+        "salary_max": 250000,
+        "salary_min": 110000,
+        "employer": "Автомакон",
+        "link": "https://hh.ru/vacancy/79919594"
+    },
+    {
+        "title": "Специалист по работе с базами данных / BI-аналитик",
+        "salary_max": 70000,
+        "salary_min": 60000,
+        "employer": "ВЦИОМ",
+        "link": "https://hh.ru/vacancy/80909341"
+    },
+    {
+        "title": "Backend developer",
+        "salary_max": 120000,
+        "salary_min": 80000,
+        "employer": "А-Я Академия",
+        "link": "https://hh.ru/vacancy/79950846"
+    },
+    {
+        "title": "Data Engineer (Data Scientist)",
+        "salary_max": 0,
+        "salary_min": 100000,
+        "employer": "Ангара Сервис",
+        "link": "https://hh.ru/vacancy/80658929"
+    },
+    {
+        "title": "QA engineer / Тестировщик",
+        "salary_max": 60000,
+        "salary_min": 30000,
+        "employer": "Элекард",
+        "link": "https://hh.ru/vacancy/79727391"
+    },
+    {
+        "title": "Middle frontend/React.js developer",
+        "salary_max": 180000,
+        "salary_min": 120000,
+        "employer": "7waysconsult",
+        "link": "https://hh.ru/vacancy/80241009"
+    },
+    {
+        "title": "Finance manager в международную онлайн школу программирования",
+        "salary_max": 1500,
+        "salary_min": 0,
+        "employer": "Rocket Tech School",
+        "link": "https://hh.ru/vacancy/80680652"
+    },
+    {
+        "title": "3D-моделлер",
+        "salary_max": 65000,
+        "salary_min": 55000,
+        "employer": "Современные решения",
+        "link": "https://hh.ru/vacancy/79597495"
+    },
+    {
+        "title": "Project Manager (Marketplace) / Менеджер проекта",
+        "salary_max": 150000,
+        "salary_min": 110000,
+        "employer": "MPSTATS",
+        "link": "https://hh.ru/vacancy/80259598"
+    },
+    {
+        "title": "Python Developer",
+        "salary_max": 120000,
+        "salary_min": 60000,
+        "employer": "А-БТ",
+        "link": "https://hh.ru/vacancy/79926028"
+    },
+    {
+        "title": "Data analytics (Стажер)",
+        "salary_max": 25400,
+        "salary_min": 0,
+        "employer": "КБ Уральский банк реконструкции и развития (УБРиР)",
+        "link": "https://hh.ru/vacancy/80018040"
+    },
+    {
+        "title": "ML Engineer",
+        "salary_max": 180000,
+        "salary_min": 140000,
+        "employer": "Тензор",
+        "link": "https://hh.ru/vacancy/80873102"
+    },
+    {
+        "title": "Системный администратор веб-серверов Linux",
+        "salary_max": 70000,
+        "salary_min": 60000,
+        "employer": "Вебасист Краснодар",
+        "link": "https://hh.ru/vacancy/80847073"
+    },
+    {
+        "title": "Python developer",
+        "salary_max": 120000,
+        "salary_min": 40000,
+        "employer": "КОМТЕК",
+        "link": "https://hh.ru/vacancy/79754882"
+    },
+    {
+        "title": "Python-разработчик (Django, DRF)",
+        "salary_max": 220000,
+        "salary_min": 60000,
+        "employer": "Фабрика Решений",
+        "link": "https://hh.ru/vacancy/80082407"
+    },
+    {
+        "title": "Хемоинформатик",
+        "salary_max": 0,
+        "salary_min": 190000,
+        "employer": "Лаборатория Наносемантика",
+        "link": "https://hh.ru/vacancy/80747232"
+    },
+    {
+        "title": "Java/Python Developer (Cloud)",
+        "salary_max": 0,
+        "salary_min": 1700,
+        "employer": "FinSTC Software LLC",
+        "link": "https://hh.ru/vacancy/79949087"
+    },
+    {
+        "title": "Разработчик программного обеспечения (Python)",
+        "salary_max": 140000,
+        "salary_min": 110000,
+        "employer": "Центр инженерной физики МГУ",
+        "link": "https://hh.ru/vacancy/80703414"
+    },
+    {
+        "title": "Аналитик данных (Middle/Senior)",
+        "salary_max": 250000,
+        "salary_min": 180000,
+        "employer": "Eqwile",
+        "link": "https://hh.ru/vacancy/80876039"
+    },
+    {
+        "title": "Fullstack разработчик (PHP, JS на React)",
+        "salary_max": 120000,
+        "salary_min": 90000,
+        "employer": "А - Реал Консалтинг",
+        "link": "https://hh.ru/vacancy/80501070"
+    },
+    {
+        "title": "Системный администратор",
+        "salary_max": 0,
+        "salary_min": 45000,
+        "employer": "Центр Испытаний и Экспертиз",
+        "link": "https://hh.ru/vacancy/79816887"
+    },
+    {
+        "title": "Ведущий тестировщик ПО",
+        "salary_max": 140000,
+        "salary_min": 120000,
+        "employer": "МД Информационные Системы",
+        "link": "https://hh.ru/vacancy/80901132"
+    },
+    {
+        "title": "Game Analyst",
+        "salary_max": 3000,
+        "salary_min": 1500,
+        "employer": "Sidus Gates IT Services L.L.C",
+        "link": "https://hh.ru/vacancy/79825676"
+    },
+    {
+        "title": "System Administrator Linux (Middle)",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "ЛАБИРИНТ",
+        "link": "https://hh.ru/vacancy/79259114"
+    },
+    {
+        "title": "Программист Python",
+        "salary_max": 120000,
+        "salary_min": 100000,
+        "employer": "Энсайн (Nsign.ru)",
+        "link": "https://hh.ru/vacancy/79717231"
+    },
+    {
+        "title": "ИТ специалист (Системный администратор)",
+        "salary_max": 0,
+        "salary_min": 70000,
+        "employer": "Fresh Heads",
+        "link": "https://hh.ru/vacancy/80446611"
+    },
+    {
+        "title": "Программист С#/С++ (релокация)",
+        "salary_max": 5000,
+        "salary_min": 0,
+        "employer": "Адалиск",
+        "link": "https://hh.ru/vacancy/80196981"
+    },
+    {
+        "title": "Инженер по тестированию (Manual+Automation)",
+        "salary_max": 180000,
+        "salary_min": 0,
+        "employer": "Комс",
+        "link": "https://hh.ru/vacancy/80211812"
+    },
+    {
+        "title": "Программист Python",
+        "salary_max": 120000,
+        "salary_min": 60000,
+        "employer": "Суши-тайм",
+        "link": "https://hh.ru/vacancy/79935496"
+    },
+    {
+        "title": "DevOps инженер (K8S)",
+        "salary_max": 300000,
+        "salary_min": 250000,
+        "employer": "Резолют Атак",
+        "link": "https://hh.ru/vacancy/80192987"
+    },
+    {
+        "title": "Product Analyst / Продуктовый аналитик (Удаленно)",
+        "salary_max": 300000,
+        "salary_min": 0,
+        "employer": "Узнать Штрафы.ру",
+        "link": "https://hh.ru/vacancy/80666235"
+    },
+    {
+        "title": "Data scientist",
+        "salary_max": 230000,
+        "salary_min": 0,
+        "employer": "Techno Diasoft",
+        "link": "https://hh.ru/vacancy/80711320"
+    },
+    {
+        "title": "ML-инженер (Банковский скоринг)",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "Займиго МФК",
+        "link": "https://hh.ru/vacancy/80884767"
+    },
+    {
+        "title": "Backend-разработчик",
+        "salary_max": 0,
+        "salary_min": 160000,
+        "employer": "ГРАН ЛИМИТЕД",
+        "link": "https://hh.ru/vacancy/80861185"
+    },
+    {
+        "title": "Ведущий инженер по сопровождению",
+        "salary_max": 145000,
+        "salary_min": 0,
+        "employer": "СБЕР",
+        "link": "https://hh.ru/vacancy/80665648"
+    },
+    {
+        "title": "Data Engineer (remote)",
+        "salary_max": 4000,
+        "salary_min": 2500,
+        "employer": "LATOKEN",
+        "link": "https://hh.ru/vacancy/80108160"
+    },
+    {
+        "title": "Инженер",
+        "salary_max": 145000,
+        "salary_min": 145000,
+        "employer": "Алькор-Коммьюникейшин",
+        "link": "https://hh.ru/vacancy/80887555"
+    },
+    {
+        "title": "Системный администратор (офис)",
+        "salary_max": 160000,
+        "salary_min": 95000,
+        "employer": "ОКР",
+        "link": "https://hh.ru/vacancy/79305915"
+    },
+    {
+        "title": "Аналитик данных ( Junior )",
+        "salary_max": 110000,
+        "salary_min": 65000,
+        "employer": "DNS Головной офис",
+        "link": "https://hh.ru/vacancy/77860540"
+    },
+    {
+        "title": "Разработчик ML",
+        "salary_max": 0,
+        "salary_min": 200000,
+        "employer": "ГК ТВЕМА",
+        "link": "https://hh.ru/vacancy/79822638"
+    },
+    {
+        "title": "Системный администратор",
+        "salary_max": 0,
+        "salary_min": 50000,
+        "employer": "KamIT",
+        "link": "https://hh.ru/vacancy/80340916"
+    },
+    {
+        "title": "FullStack веб-разработчик",
+        "salary_max": 0,
+        "salary_min": 90000,
+        "employer": "НПК РВТС",
+        "link": "https://hh.ru/vacancy/80714456"
+    },
+    {
+        "title": "Инженер-программист",
+        "salary_max": 80000,
+        "salary_min": 40000,
+        "employer": "Научно-производственное предприятие ПРИМА",
+        "link": "https://hh.ru/vacancy/79532031"
+    },
+    {
+        "title": "DevOps",
+        "salary_max": 250000,
+        "salary_min": 200000,
+        "employer": "СБЕР",
+        "link": "https://hh.ru/vacancy/80043816"
+    },
+    {
+        "title": "Инженер Linux",
+        "salary_max": 170000,
+        "salary_min": 100000,
+        "employer": "Southbridge",
+        "link": "https://hh.ru/vacancy/80829940"
+    },
+    {
+        "title": "Специалист по парсерам",
+        "salary_max": 300000,
+        "salary_min": 100000,
+        "employer": "Андреева Татьяна Федоровна",
+        "link": "https://hh.ru/vacancy/80914777"
+    },
+    {
+        "title": "Аналитик БД",
+        "salary_max": 0,
+        "salary_min": 60000,
+        "employer": "ГБУ МО МОМИАЦ",
+        "link": "https://hh.ru/vacancy/76506470"
+    },
+    {
+        "title": "C# developer junior / middle (.net, full-stack / back-end)",
+        "salary_max": 250000,
+        "salary_min": 100000,
+        "employer": "Mindbox",
+        "link": "https://hh.ru/vacancy/76709182"
+    },
+    {
+        "title": "Инженер-программист",
+        "salary_max": 0,
+        "salary_min": 70000,
+        "employer": "Аметист-Стан",
+        "link": "https://hh.ru/vacancy/80718484"
+    },
+    {
+        "title": "QA Lead",
+        "salary_max": 0,
+        "salary_min": 250000,
+        "employer": "Сервисный центр Транстелематика",
+        "link": "https://hh.ru/vacancy/80661154"
+    },
+    {
+        "title": "Помощник WEB программиста",
+        "salary_max": 0,
+        "salary_min": 50000,
+        "employer": "ЗАВОД ГОТОВЫХ ТЕПЛИЦ",
+        "link": "https://hh.ru/vacancy/73468926"
+    },
+    {
+        "title": "Аналитик данных / Data Analyst / BI-аналитик",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "Фрифлекс",
+        "link": "https://hh.ru/vacancy/80326134"
+    },
+    {
+        "title": "Frontend разработчик (middle)",
+        "salary_max": 200000,
+        "salary_min": 0,
+        "employer": "Актив",
+        "link": "https://hh.ru/vacancy/80733770"
+    },
+    {
+        "title": "BI Developer / Data Analyst",
+        "salary_max": 4000,
+        "salary_min": 2500,
+        "employer": "QIC",
+        "link": "https://hh.ru/vacancy/80189847"
+    },
+    {
+        "title": "Data Scientist",
+        "salary_max": 400000,
+        "salary_min": 300000,
+        "employer": "СБЕР",
+        "link": "https://hh.ru/vacancy/80428391"
+    },
+    {
+        "title": "Программист-разработчик PHP",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "ЕРЦ ЖКХ",
+        "link": "https://hh.ru/vacancy/80447462"
+    },
+    {
+        "title": "Backend программист (Python/Django) - Middle",
+        "salary_max": 130000,
+        "salary_min": 70000,
+        "employer": "Флексайтс",
+        "link": "https://hh.ru/vacancy/80686984"
+    },
+    {
+        "title": "DevOps инженер",
+        "salary_max": 105000,
+        "salary_min": 85000,
+        "employer": "Альтер",
+        "link": "https://hh.ru/vacancy/80344005"
+    },
+    {
+        "title": "Backend разработчик (Python)",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "ИОТ",
+        "link": "https://hh.ru/vacancy/76891919"
+    },
+    {
+        "title": "Middle Python-разработчик",
+        "salary_max": 250000,
+        "salary_min": 140000,
+        "employer": "AERODISK",
+        "link": "https://hh.ru/vacancy/80580029"
+    },
+    {
+        "title": "Senior portfolio risk manager",
+        "salary_max": 4500,
+        "salary_min": 3000,
+        "employer": "Finstar Financial Group",
+        "link": "https://hh.ru/vacancy/80486596"
+    },
+    {
+        "title": "Golang developer",
+        "salary_max": 2000,
+        "salary_min": 0,
+        "employer": "AppMagic",
+        "link": "https://hh.ru/vacancy/76982273"
+    },
+    {
+        "title": "Бизнес-аналитик",
+        "salary_max": 60000,
+        "salary_min": 60000,
+        "employer": "КГКУ Центр информационных технологий Красноярского края",
+        "link": "https://hh.ru/vacancy/80687665"
+    },
+    {
+        "title": "Аналитик (Технический писатель)",
+        "salary_max": 0,
+        "salary_min": 80000,
+        "employer": "ФГУП НТЦ Орион",
+        "link": "https://hh.ru/vacancy/80508647"
+    },
+    {
+        "title": "Младший аналитик (взыскание)",
+        "salary_max": 100000,
+        "salary_min": 0,
+        "employer": "МФК Саммит",
+        "link": "https://hh.ru/vacancy/79233637"
+    },
+    {
+        "title": "Администратор СУБД (DBA)",
+        "salary_max": 120000,
+        "salary_min": 70000,
+        "employer": "Джаст Ит",
+        "link": "https://hh.ru/vacancy/80633173"
+    },
+    {
+        "title": "Начинающий специалист по NLP и LLM",
+        "salary_max": 40000,
+        "salary_min": 25000,
+        "employer": "Рекламная группа КИТ Медиа",
+        "link": "https://hh.ru/vacancy/80914536"
+    },
+    {
+        "title": "Маркетинговый аналитик / аналитик данных / аналитик онлайн-школы",
+        "salary_max": 100000,
+        "salary_min": 80000,
+        "employer": "Мышление",
+        "link": "https://hh.ru/vacancy/80778140"
+    },
+    {
+        "title": "Ночной системный инженер мониторинга",
+        "salary_max": 180000,
+        "salary_min": 110000,
+        "employer": "SoftGamings",
+        "link": "https://hh.ru/vacancy/80671275"
+    },
+    {
+        "title": "Backend Developer",
+        "salary_max": 210000,
+        "salary_min": 140000,
+        "employer": "Surf IT",
+        "link": "https://hh.ru/vacancy/79730276"
+    },
+    {
+        "title": "Стажер-аналитик со знанием Python",
+        "salary_max": 0,
+        "salary_min": 30000,
+        "employer": "ОТП Банк, АО (OTP bank)",
+        "link": "https://hh.ru/vacancy/80906376"
+    },
+    {
+        "title": "Дежурный системный администратор",
+        "salary_max": 60000,
+        "salary_min": 42000,
+        "employer": "Тензор",
+        "link": "https://hh.ru/vacancy/79922579"
+    },
+    {
+        "title": "Специалист по ML/DL (Junior)",
+        "salary_max": 130000,
+        "salary_min": 0,
+        "employer": "Неовокс Технологии",
+        "link": "https://hh.ru/vacancy/80242817"
+    },
+    {
+        "title": "Программист/разработчик БПЛА (Беспилотных летательных аппаратов)",
+        "salary_max": 160000,
+        "salary_min": 100000,
+        "employer": "Аркон Аэроспейс",
+        "link": "https://hh.ru/vacancy/80360255"
+    },
+    {
+        "title": "Инженер по анализу защищенности (пентест, OSINT, форензика)",
+        "salary_max": 187000,
+        "salary_min": 107000,
+        "employer": "Тензор",
+        "link": "https://hh.ru/vacancy/80838748"
+    },
+    {
+        "title": "Flutter developer",
+        "salary_max": 200000,
+        "salary_min": 150000,
+        "employer": "BrainHub",
+        "link": "https://hh.ru/vacancy/80877852"
+    },
+    {
+        "title": "Программист Python",
+        "salary_max": 215000,
+        "salary_min": 105000,
+        "employer": "Тензор",
+        "link": "https://hh.ru/vacancy/79072667"
+    },
+    {
+        "title": "Младший инженер-программист C++",
+        "salary_max": 70000,
+        "salary_min": 0,
+        "employer": "CAD Exchanger",
+        "link": "https://hh.ru/vacancy/80243014"
+    },
+    {
+        "title": "Инженер по тестированию (QA) в Сочи",
+        "salary_max": 110000,
+        "salary_min": 70000,
+        "employer": "НИИ МАСШТАБ",
+        "link": "https://hh.ru/vacancy/79620155"
+    },
+    {
+        "title": "DevOps / Инженер по внедрению и сопровождению программного обеспечения",
+        "salary_max": 0,
+        "salary_min": 60000,
+        "employer": "Центр",
+        "link": "https://hh.ru/vacancy/79983537"
+    },
+    {
+        "title": "Старший системный администратор Linux (удаленно)",
+        "salary_max": 0,
+        "salary_min": 170000,
+        "employer": "Лаборатория Гемотест",
+        "link": "https://hh.ru/vacancy/80032604"
+    },
+    {
+        "title": "Middle Python Developer",
+        "salary_max": 3500,
+        "salary_min": 0,
+        "employer": "Asodesk",
+        "link": "https://hh.ru/vacancy/80610015"
+    },
+    {
+        "title": "Инженер-программист",
+        "salary_max": 0,
+        "salary_min": 83000,
+        "employer": "Русджам Стеклотара Холдинг",
+        "link": "https://hh.ru/vacancy/80442746"
+    },
+    {
+        "title": "Специалист поддержки в Яндекс Практикум",
+        "salary_max": 50000,
+        "salary_min": 50000,
+        "employer": "Яндекс",
+        "link": "https://hh.ru/vacancy/79798281"
+    },
+    {
+        "title": "Middle Product Manager",
+        "salary_max": 150000,
+        "salary_min": 0,
+        "employer": "Умскул",
+        "link": "https://hh.ru/vacancy/80532736"
+    },
+    {
+        "title": "Backend-разработчик",
+        "salary_max": 0,
+        "salary_min": 240000,
+        "employer": "Веб Крафт",
+        "link": "https://hh.ru/vacancy/80769154"
+    },
+    {
+        "title": "Middle / Senior Backend Engineer (iFunny)",
+        "salary_max": 6000,
+        "salary_min": 5000,
+        "employer": "FUNCORP",
+        "link": "https://hh.ru/vacancy/80144395"
+    },
+    {
+        "title": "Инженер-программист",
+        "salary_max": 60000,
+        "salary_min": 50000,
+        "employer": "ТЕПЛООБМЕН",
+        "link": "https://hh.ru/vacancy/80613640"
+    },
+    {
+        "title": "Системный инженер",
+        "salary_max": 100000,
+        "salary_min": 70000,
+        "employer": "Программная Палата",
+        "link": "https://hh.ru/vacancy/80885263"
+    },
+    {
+        "title": "Тестировщик ПО",
+        "salary_max": 140000,
+        "salary_min": 0,
+        "employer": "Inline Telecom Solutions",
+        "link": "https://hh.ru/vacancy/79195159"
+    },
+    {
+        "title": "DevOps инженер",
+        "salary_max": 200000,
+        "salary_min": 0,
+        "employer": "СоларЛаб",
+        "link": "https://hh.ru/vacancy/79870024"
+    },
+    {
+        "title": "Инженер-программист",
+        "salary_max": 0,
+        "salary_min": 35000,
+        "employer": "ОГБУЗ МИАЦИО",
+        "link": "https://hh.ru/vacancy/79959008"
+    },
+    {
+        "title": "Go/Python разработчик",
+        "salary_max": 0,
+        "salary_min": 160000,
+        "employer": "SberTech",
+        "link": "https://hh.ru/vacancy/76347722"
+    },
+    {
+        "title": "Data Analyst (Remote)",
+        "salary_max": 4000,
+        "salary_min": 3000,
+        "employer": "Novakid Inc",
+        "link": "https://hh.ru/vacancy/80692179"
+    },
+    {
+        "title": "Python developer (г. Томск)",
+        "salary_max": 100000,
+        "salary_min": 40000,
+        "employer": "Телеграм-канал headlines (ИП Валеев Ренат Тагирович)",
+        "link": "https://hh.ru/vacancy/80019845"
+    },
+    {
+        "title": "Analyst (remote)",
+        "salary_max": 0,
+        "salary_min": 1500,
+        "employer": "LATOKEN",
+        "link": "https://hh.ru/vacancy/80183577"
+    },
+    {
+        "title": "Тестировщик программного обеспечения",
+        "salary_max": 90000,
+        "salary_min": 50000,
+        "employer": "Тензор",
+        "link": "https://hh.ru/vacancy/76747159"
+    },
+    {
+        "title": "Программист-разработчик",
+        "salary_max": 0,
+        "salary_min": 70000,
+        "employer": "СмартАгро",
+        "link": "https://hh.ru/vacancy/79795414"
+    },
+    {
+        "title": "Game Analyst",
+        "salary_max": 3000,
+        "salary_min": 1500,
+        "employer": "Sidus Gates IT Services L.L.C",
+        "link": "https://hh.ru/vacancy/79825675"
+    },
+    {
+        "title": "Python-разработчик (Pre Middle / Middle)",
+        "salary_max": 150000,
+        "salary_min": 100000,
+        "employer": "ИТС",
+        "link": "https://hh.ru/vacancy/80212250"
+    },
+    {
+        "title": "Системный администратор",
+        "salary_max": 0,
+        "salary_min": 45000,
+        "employer": "Сенашев Алексей Игоревич",
+        "link": "https://hh.ru/vacancy/80790036"
+    },
+    {
+        "title": "Программист",
+        "salary_max": 20000,
+        "salary_min": 0,
+        "employer": "Kiber One (ИП Ишалина Маргарита Андреевна)",
+        "link": "https://hh.ru/vacancy/80913763"
+    },
+    {
+        "title": "Инженер-программист Python",
+        "salary_max": 0,
+        "salary_min": 70000,
+        "employer": "ФНПЦ АО НПО МАРС",
+        "link": "https://hh.ru/vacancy/79591930"
+    },
+    {
+        "title": "Head Of Algorithmic Trading / Head of quant team",
+        "salary_max": 0,
+        "salary_min": 5000,
+        "employer": "Cicada",
+        "link": "https://hh.ru/vacancy/80587660"
+    },
+    {
+        "title": "Разработчик ПО / Программист C#",
+        "salary_max": 200000,
+        "salary_min": 150000,
+        "employer": "Научно-исследовательский институт транспорта нефти и нефтепродуктов Транснефть",
+        "link": "https://hh.ru/vacancy/80446472"
+    },
+    {
+        "title": "Ведущий аналитик (Аналитическое управление)",
+        "salary_max": 0,
+        "salary_min": 158240,
+        "employer": "Мособлгаз",
+        "link": "https://hh.ru/vacancy/80369691"
+    },
+    {
+        "title": "Инженер-системотехник САУ Беспилотные Авиационные Системы",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "Летающие Машины Тюринга",
+        "link": "https://hh.ru/vacancy/80464129"
+    },
+    {
+        "title": "Системный администратор",
+        "salary_max": 120000,
+        "salary_min": 120000,
+        "employer": "Мой Зубной",
+        "link": "https://hh.ru/vacancy/77432222"
+    },
+    {
+        "title": "Инженер-программист",
+        "salary_max": 200000,
+        "salary_min": 100000,
+        "employer": "Альянс-АйТи",
+        "link": "https://hh.ru/vacancy/79975067"
+    },
+    {
+        "title": "Аналитик данных (дата-аналитик)",
+        "salary_max": 0,
+        "salary_min": 100000,
+        "employer": "Модуль",
+        "link": "https://hh.ru/vacancy/80162868"
+    },
+    {
+        "title": "Data Analyst (Junior)",
+        "salary_max": 0,
+        "salary_min": 70000,
+        "employer": "DNS Технологии",
+        "link": "https://hh.ru/vacancy/78006685"
+    },
+    {
+        "title": "Web-программист",
+        "salary_max": 120000,
+        "salary_min": 70000,
+        "employer": "MRKTRADING",
+        "link": "https://hh.ru/vacancy/80260973"
+    },
+    {
+        "title": "Auto QA Engineer",
+        "salary_max": 220000,
+        "salary_min": 160000,
+        "employer": "Patron.",
+        "link": "https://hh.ru/vacancy/80008901"
+    },
+    {
+        "title": "Middle backend разработчик (Python)",
+        "salary_max": 160000,
+        "salary_min": 140000,
+        "employer": "UrbanMedic",
+        "link": "https://hh.ru/vacancy/80155457"
+    },
+    {
+        "title": "Реверс-инженер в области виртуализации",
+        "salary_max": 450000,
+        "salary_min": 400000,
+        "employer": "АСТ",
+        "link": "https://hh.ru/vacancy/80524487"
+    },
+    {
+        "title": "Старший сетевой инженер / руководитель отдела",
+        "salary_max": 300000,
+        "salary_min": 200000,
+        "employer": "АйПильсин",
+        "link": "https://hh.ru/vacancy/80879305"
+    },
+    {
+        "title": "Middle+ backend developer",
+        "salary_max": 250000,
+        "salary_min": 200000,
+        "employer": "Смартекс",
+        "link": "https://hh.ru/vacancy/80291721"
+    },
+    {
+        "title": "Team Lead",
+        "salary_max": 300000,
+        "salary_min": 200000,
+        "employer": "Smart Seller (ИП Исхаков Артур Ильдарович)",
+        "link": "https://hh.ru/vacancy/80314948"
+    },
+    {
+        "title": "Product analyst / Продуктовый аналитик",
+        "salary_max": 0,
+        "salary_min": 170000,
+        "employer": "Tripster",
+        "link": "https://hh.ru/vacancy/79935150"
+    },
+    {
+        "title": "QAA Тестировщик",
+        "salary_max": 220000,
+        "salary_min": 160000,
+        "employer": "Devquality",
+        "link": "https://hh.ru/vacancy/80306835"
+    },
+    {
+        "title": "Программист С++/Qt",
+        "salary_max": 150000,
+        "salary_min": 0,
+        "employer": "НПК Наши Технологии",
+        "link": "https://hh.ru/vacancy/80852618"
+    },
+    {
+        "title": "PHP - developer",
+        "salary_max": 250000,
+        "salary_min": 200000,
+        "employer": "Еком Диджитал",
+        "link": "https://hh.ru/vacancy/80140592"
+    },
+    {
+        "title": "Веб-программист",
+        "salary_max": 120000,
+        "salary_min": 85000,
+        "employer": "Спектр-Гранд",
+        "link": "https://hh.ru/vacancy/80388348"
+    },
+    {
+        "title": "Специалист технической поддержки виртуального хостинга (ОС Linux)",
+        "salary_max": 50000,
+        "salary_min": 35000,
+        "employer": "ТаймВэб",
+        "link": "https://hh.ru/vacancy/78852571"
+    },
+    {
+        "title": "Аналитик BI",
+        "salary_max": 200000,
+        "salary_min": 150000,
+        "employer": "ОМТ-Консалт, Группа компаний",
+        "link": "https://hh.ru/vacancy/79778325"
+    },
+    {
+        "title": "Разработчик С ++",
+        "salary_max": 350000,
+        "salary_min": 200000,
+        "employer": "СБЕР",
+        "link": "https://hh.ru/vacancy/79925740"
+    },
+    {
+        "title": "Инженер-робототехник / Инженер АСУ (Электроприводы, АСУ).ROBOT KING (УДАЛЁННО)",
+        "salary_max": 0,
+        "salary_min": 140999,
+        "employer": "Интеллектуальные робот системы",
+        "link": "https://hh.ru/vacancy/80238645"
+    },
+    {
+        "title": "Специалист по информационной безопасности (Infrastructure Pentester)",
+        "salary_max": 300000,
+        "salary_min": 170000,
+        "employer": "SR TECHNOLOGIES",
+        "link": "https://hh.ru/vacancy/80360612"
+    },
+    {
+        "title": "Project Manager (IT outsourcing company)",
+        "salary_max": 250000,
+        "salary_min": 180000,
+        "employer": "Шарп Девелоперс",
+        "link": "https://hh.ru/vacancy/80905471"
+    },
+    {
+        "title": "Инженер-программист (беспилотные автомобили)",
+        "salary_max": 0,
+        "salary_min": 40000,
+        "employer": "КАМАЗ",
+        "link": "https://hh.ru/vacancy/76709017"
+    },
+    {
+        "title": "Инженер-программист CV",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "Техтранс",
+        "link": "https://hh.ru/vacancy/75964647"
+    },
+    {
+        "title": "Аналитик данных (senior)",
+        "salary_max": 0,
+        "salary_min": 300000,
+        "employer": "Группа Актион",
+        "link": "https://hh.ru/vacancy/80350048"
+    },
+    {
+        "title": "Инженер внедрения",
+        "salary_max": 160000,
+        "salary_min": 120000,
+        "employer": "Открытые Технологии",
+        "link": "https://hh.ru/vacancy/76805148"
+    },
+    {
+        "title": "DevOps Engineer",
+        "salary_max": 5000,
+        "salary_min": 4500,
+        "employer": "Фарэл Софтвейр Казахстан",
+        "link": "https://hh.ru/vacancy/80833088"
+    },
+    {
+        "title": "Аналитик данных (Гибкий график)",
+        "salary_max": 0,
+        "salary_min": 80000,
+        "employer": "Эй Джи Ти",
+        "link": "https://hh.ru/vacancy/79220809"
+    },
+    {
+        "title": "Системный администратор Linux",
+        "salary_max": 0,
+        "salary_min": 100000,
+        "employer": "СПБ ГБУЗ Городская поликлиника №32",
+        "link": "https://hh.ru/vacancy/80554254"
+    },
+    {
+        "title": "Системный администратор/Сетевой инженер",
+        "salary_max": 90000,
+        "salary_min": 45000,
+        "employer": "ПЖ19",
+        "link": "https://hh.ru/vacancy/80875100"
+    },
+    {
+        "title": "Инженер по информационной безопасности",
+        "salary_max": 160000,
+        "salary_min": 110000,
+        "employer": "METASCAN",
+        "link": "https://hh.ru/vacancy/80005225"
+    },
+    {
+        "title": "Системный администратор",
+        "salary_max": 0,
+        "salary_min": 50000,
+        "employer": "KamIT",
+        "link": "https://hh.ru/vacancy/80340915"
+    },
+    {
+        "title": "Ведущий аналитик в аналитический центр",
+        "salary_max": 150000,
+        "salary_min": 120000,
+        "employer": "Национальный исследовательский университет Высшая школа экономики",
+        "link": "https://hh.ru/vacancy/80355255"
+    },
+    {
+        "title": "Младший биоинформатик",
+        "salary_max": 0,
+        "salary_min": 60000,
+        "employer": "Лаборатория геномной инженерии МФТИ",
+        "link": "https://hh.ru/vacancy/80602443"
+    },
+    {
+        "title": "HR Manager / It Recruiter",
+        "salary_max": 100000,
+        "salary_min": 0,
+        "employer": "Surf IT",
+        "link": "https://hh.ru/vacancy/80865407"
+    },
+    {
+        "title": "Бэкенд-разработчик",
+        "salary_max": 150000,
+        "salary_min": 100000,
+        "employer": "Гальченко Тимофей Валерьевич",
+        "link": "https://hh.ru/vacancy/79848455"
+    },
+    {
+        "title": "Специалист ГИС-систем",
+        "salary_max": 95000,
+        "salary_min": 60000,
+        "employer": "Российские космические системы",
+        "link": "https://hh.ru/vacancy/80406926"
+    },
+    {
+        "title": "Инженер по системам видеонаблюдения (ПК Интеллект)",
+        "salary_max": 0,
+        "salary_min": 130000,
+        "employer": "ГПБ - Техинформзащита",
+        "link": "https://hh.ru/vacancy/80602247"
+    },
+    {
+        "title": "Senior QA Manual Engineer (Mobile/API)",
+        "salary_max": 0,
+        "salary_min": 2500,
+        "employer": "Tabby",
+        "link": "https://hh.ru/vacancy/80456599"
+    },
+    {
+        "title": "Программист С++",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "ГК ПРОМО",
+        "link": "https://hh.ru/vacancy/80463994"
+    },
+    {
+        "title": "Senior Project Manager",
+        "salary_max": 0,
+        "salary_min": 200000,
+        "employer": "Rubbles",
+        "link": "https://hh.ru/vacancy/71890286"
+    },
+    {
+        "title": "Analyst / Аналитик",
+        "salary_max": 250000,
+        "salary_min": 0,
+        "employer": "DataGo!",
+        "link": "https://hh.ru/vacancy/80317110"
+    },
+    {
+        "title": "Team lead отдела разработки",
+        "salary_max": 0,
+        "salary_min": 300000,
+        "employer": "Синтоник",
+        "link": "https://hh.ru/vacancy/80594126"
+    },
+    {
+        "title": "Продуктовый CRM аналитик (удаленно)",
+        "salary_max": 270000,
+        "salary_min": 240000,
+        "employer": "Outlines Technologies",
+        "link": "https://hh.ru/vacancy/80781052"
+    },
+    {
+        "title": "IT аналитик",
+        "salary_max": 45000,
+        "salary_min": 40000,
+        "employer": "ГБУ Самарской области Цифровой регион",
+        "link": "https://hh.ru/vacancy/80288666"
+    },
+    {
+        "title": "QA engineer (проект ПОЛИНОМ:MDM)",
+        "salary_max": 0,
+        "salary_min": 70000,
+        "employer": "АСКОН",
+        "link": "https://hh.ru/vacancy/80411883"
+    },
+    {
+        "title": "Программист-разработчик",
+        "salary_max": 0,
+        "salary_min": 180000,
+        "employer": "НПП Алмаз",
+        "link": "https://hh.ru/vacancy/77631019"
+    },
+    {
+        "title": "Младший системный администратор OpenBSD",
+        "salary_max": 0,
+        "salary_min": 50000,
+        "employer": "Радиум",
+        "link": "https://hh.ru/vacancy/80093367"
+    },
+    {
+        "title": "Frontend-разработчик",
+        "salary_max": 0,
+        "salary_min": 100000,
+        "employer": "МБУ ЦМИРиТ",
+        "link": "https://hh.ru/vacancy/79792239"
+    },
+    {
+        "title": "DevOps-инженер (Мониторинг)",
+        "salary_max": 140000,
+        "salary_min": 0,
+        "employer": "Тензор",
+        "link": "https://hh.ru/vacancy/80916219"
+    },
+    {
+        "title": "Ведущий аналитик",
+        "salary_max": 100000,
+        "salary_min": 60000,
+        "employer": "Казанский (Приволжский) федеральный университет",
+        "link": "https://hh.ru/vacancy/80037741"
+    },
+    {
+        "title": "Разработчик КХД / специалист ETL",
+        "salary_max": 125000,
+        "salary_min": 0,
+        "employer": "Международный аэропорт Шереметьево",
+        "link": "https://hh.ru/vacancy/80825281"
+    },
+    {
+        "title": "Программист-тестировщик (отдел автотестирования)",
+        "salary_max": 92000,
+        "salary_min": 46000,
+        "employer": "Тензор",
+        "link": "https://hh.ru/vacancy/76390826"
+    },
+    {
+        "title": "Программист Python",
+        "salary_max": 215000,
+        "salary_min": 105000,
+        "employer": "Тензор",
+        "link": "https://hh.ru/vacancy/79609374"
+    },
+    {
+        "title": "Системный администратор (DevOps)",
+        "salary_max": 120000,
+        "salary_min": 70000,
+        "employer": "Alt.Point",
+        "link": "https://hh.ru/vacancy/80159016"
+    },
+    {
+        "title": "Начальник отдела мультимедийных систем",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "ВТБ АРЕНА",
+        "link": "https://hh.ru/vacancy/80436044"
+    },
+    {
+        "title": "Программист-тестировщик (отдел автотестирования)",
+        "salary_max": 92000,
+        "salary_min": 46000,
+        "employer": "Тензор",
+        "link": "https://hh.ru/vacancy/76390802"
+    },
+    {
+        "title": "Математик",
+        "salary_max": 80000,
+        "salary_min": 60000,
+        "employer": "Концерн Океанприбор",
+        "link": "https://hh.ru/vacancy/80321696"
+    },
+    {
+        "title": "Middle+ Python-разработчик",
+        "salary_max": 320000,
+        "salary_min": 0,
+        "employer": "Точка",
+        "link": "https://hh.ru/vacancy/80672896"
+    },
+    {
+        "title": "Специалист по обработке данных / Python программист",
+        "salary_max": 150000,
+        "salary_min": 130000,
+        "employer": "СПЕЙС МЕДИА ГРУПП",
+        "link": "https://hh.ru/vacancy/80233961"
+    },
+    {
+        "title": "DevOps Engineer",
+        "salary_max": 400000,
+        "salary_min": 200000,
+        "employer": "JuicyScore",
+        "link": "https://hh.ru/vacancy/80710141"
+    },
+    {
+        "title": "Frontend-разработчик",
+        "salary_max": 215000,
+        "salary_min": 105000,
+        "employer": "Тензор",
+        "link": "https://hh.ru/vacancy/73721830"
+    },
+    {
+        "title": "Программист",
+        "salary_max": 0,
+        "salary_min": 70000,
+        "employer": "СПб ГКУ Центр Архивных Документов",
+        "link": "https://hh.ru/vacancy/79969547"
+    },
+    {
+        "title": "Разработчик Python",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "Крибрум",
+        "link": "https://hh.ru/vacancy/80402635"
+    },
+    {
+        "title": "Разработчик-робототехник",
+        "salary_max": 0,
+        "salary_min": 100000,
+        "employer": "ГРУППА ПРОМАВТО",
+        "link": "https://hh.ru/vacancy/80440806"
+    },
+    {
+        "title": "Продуктовый аналитик",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "Ковалев Эрик Рашидович",
+        "link": "https://hh.ru/vacancy/80174932"
+    },
+    {
+        "title": "Инженер-программист",
+        "salary_max": 0,
+        "salary_min": 40000,
+        "employer": "НПО автоматики",
+        "link": "https://hh.ru/vacancy/77519215"
+    },
+    {
+        "title": "Младший инженер по тестированию ПО",
+        "salary_max": 77000,
+        "salary_min": 0,
+        "employer": "Базальт СПО",
+        "link": "https://hh.ru/vacancy/77913857"
+    },
+    {
+        "title": "Программист С++ Senior",
+        "salary_max": 700000,
+        "salary_min": 400000,
+        "employer": "Дубайт",
+        "link": "https://hh.ru/vacancy/71147159"
+    },
+    {
+        "title": "Quant Researcher (Algo trading)",
+        "salary_max": 8000,
+        "salary_min": 4000,
+        "employer": "ITSS",
+        "link": "https://hh.ru/vacancy/80319665"
+    },
+    {
+        "title": "Backend - разработчик Python (Middle+)",
+        "salary_max": 0,
+        "salary_min": 200000,
+        "employer": "BFG Group",
+        "link": "https://hh.ru/vacancy/80799579"
+    },
+    {
+        "title": "Web-программист",
+        "salary_max": 120000,
+        "salary_min": 80000,
+        "employer": "Акс Финанс",
+        "link": "https://hh.ru/vacancy/77415500"
+    },
+    {
+        "title": "Аналитик CRM",
+        "salary_max": 200000,
+        "salary_min": 0,
+        "employer": "МАГНИТ, Розничная сеть",
+        "link": "https://hh.ru/vacancy/80040197"
+    },
+    {
+        "title": "Дежурный инженер технической поддержки",
+        "salary_max": 0,
+        "salary_min": 27000,
+        "employer": "RU-CENTER Group",
+        "link": "https://hh.ru/vacancy/79218860"
+    },
+    {
+        "title": "Системный администратор Helpdesk II-III",
+        "salary_max": 0,
+        "salary_min": 80000,
+        "employer": "Сервер Молл",
+        "link": "https://hh.ru/vacancy/80246828"
+    },
+    {
+        "title": "Разработчик C++ (GameDev)",
+        "salary_max": 240000,
+        "salary_min": 0,
+        "employer": "BetBoom",
+        "link": "https://hh.ru/vacancy/80306765"
+    },
+    {
+        "title": "Аналитик / помощник аналитика",
+        "salary_max": 60000,
+        "salary_min": 30000,
+        "employer": "Shturman",
+        "link": "https://hh.ru/vacancy/80052538"
+    },
+    {
+        "title": "Data scientist",
+        "salary_max": 230000,
+        "salary_min": 0,
+        "employer": "Techno Diasoft",
+        "link": "https://hh.ru/vacancy/80711244"
+    },
+    {
+        "title": "Senior Data Analyst",
+        "salary_max": 4000,
+        "salary_min": 0,
+        "employer": "AppMagic",
+        "link": "https://hh.ru/vacancy/79605587"
+    },
+    {
+        "title": "Программист",
+        "salary_max": 0,
+        "salary_min": 70000,
+        "employer": "Эксимер, офтальмологическая клиника",
+        "link": "https://hh.ru/vacancy/80425367"
+    },
+    {
+        "title": "Системный администратор Linux",
+        "salary_max": 180000,
+        "salary_min": 150000,
+        "employer": "Омникомм Технологии",
+        "link": "https://hh.ru/vacancy/79088098"
+    },
+    {
+        "title": "Data Engineer",
+        "salary_max": 140000,
+        "salary_min": 70000,
+        "employer": "DNS Технологии",
+        "link": "https://hh.ru/vacancy/79699010"
+    },
+    {
+        "title": "Ведущий аналитик данных/аналитик данных",
+        "salary_max": 200000,
+        "salary_min": 150000,
+        "employer": "Ростелеком",
+        "link": "https://hh.ru/vacancy/80513065"
+    },
+    {
+        "title": "Стажер подразделения ИТ (Дата инженер/Разработчик аналитических систем)",
+        "salary_max": 0,
+        "salary_min": 50000,
+        "employer": "ДОМ.РФ",
+        "link": "https://hh.ru/vacancy/79889341"
+    },
+    {
+        "title": "Инженер-программист (Беспилотные Авиационные Системы)",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "Летающие Машины Тюринга",
+        "link": "https://hh.ru/vacancy/80009617"
+    },
+    {
+        "title": "Программист ПЛК",
+        "salary_max": 0,
+        "salary_min": 50000,
+        "employer": "АлтайМТЛ",
+        "link": "https://hh.ru/vacancy/77697001"
+    },
+    {
+        "title": "Корпоративный архитектор",
+        "salary_max": 0,
+        "salary_min": 350000,
+        "employer": "SberTech",
+        "link": "https://hh.ru/vacancy/79739081"
+    },
+    {
+        "title": "Системный инженер",
+        "salary_max": 0,
+        "salary_min": 65000,
+        "employer": "Инжиниринговый Центр РЕГИОНАЛЬНЫЕ СИСТЕМЫ",
+        "link": "https://hh.ru/vacancy/80516419"
+    },
+    {
+        "title": "Программист-наставник в школу программирования для детей",
+        "salary_max": 150000,
+        "salary_min": 0,
+        "employer": "KiberOne (ИП Докучаева Юлия Викторовна)",
+        "link": "https://hh.ru/vacancy/80871161"
+    },
+    {
+        "title": "Антифрод аналитик",
+        "salary_max": 180000,
+        "salary_min": 130000,
+        "employer": "DODO BRANDS (Dodo Pizza, Drinkit, Doner 42)",
+        "link": "https://hh.ru/vacancy/80514325"
+    },
+    {
+        "title": "Программист Python",
+        "salary_max": 220000,
+        "salary_min": 115000,
+        "employer": "Тензор",
+        "link": "https://hh.ru/vacancy/80505413"
+    },
+    {
+        "title": "Программист C++",
+        "salary_max": 150000,
+        "salary_min": 60000,
+        "employer": "PVS-Studio",
+        "link": "https://hh.ru/vacancy/78822735"
+    },
+    {
+        "title": "Разработчик C# .NET",
+        "salary_max": 0,
+        "salary_min": 80000,
+        "employer": "ics-it",
+        "link": "https://hh.ru/vacancy/80281165"
+    },
+    {
+        "title": "Технический аналитик CRM (удаленно)",
+        "salary_max": 120000,
+        "salary_min": 90000,
+        "employer": "Dau Relationship Marketing",
+        "link": "https://hh.ru/vacancy/80724814"
+    },
+    {
+        "title": "Системный инженер",
+        "salary_max": 180000,
+        "salary_min": 160000,
+        "employer": "Открытые Технологии",
+        "link": "https://hh.ru/vacancy/79192937"
+    },
+    {
+        "title": "ЕТL-разработчик",
+        "salary_max": 130000,
+        "salary_min": 100000,
+        "employer": "7RedLines",
+        "link": "https://hh.ru/vacancy/80659626"
+    },
+    {
+        "title": "HR Manager / It Recruiter",
+        "salary_max": 100000,
+        "salary_min": 0,
+        "employer": "Surf IT",
+        "link": "https://hh.ru/vacancy/80865409"
+    },
+    {
+        "title": "Младший аналитик в стратегический консалтинг",
+        "salary_max": 70000,
+        "salary_min": 0,
+        "employer": "Intelligent Analytics",
+        "link": "https://hh.ru/vacancy/75442284"
+    },
+    {
+        "title": "Инженер-программист математик",
+        "salary_max": 0,
+        "salary_min": 170000,
+        "employer": "Аэроприбор-Восход",
+        "link": "https://hh.ru/vacancy/77806185"
+    },
+    {
+        "title": "Компьютерный лингвист",
+        "salary_max": 110000,
+        "salary_min": 0,
+        "employer": "Группа Актион",
+        "link": "https://hh.ru/vacancy/78993809"
+    },
+    {
+        "title": "Разработчик С++",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "НПО Эшелон",
+        "link": "https://hh.ru/vacancy/79864557"
+    },
+    {
+        "title": "Программист (разработчик) БПЛА",
+        "salary_max": 250000,
+        "salary_min": 0,
+        "employer": "АЙТИ.СПЕЙС",
+        "link": "https://hh.ru/vacancy/80202019"
+    },
+    {
+        "title": "Программист PHP Junior",
+        "salary_max": 80000,
+        "salary_min": 60000,
+        "employer": "SRLab",
+        "link": "https://hh.ru/vacancy/80387950"
+    },
+    {
+        "title": "Инженер-программист",
+        "salary_max": 0,
+        "salary_min": 30000,
+        "employer": "Уфимский Университет Науки и Технологий",
+        "link": "https://hh.ru/vacancy/80684920"
+    },
+    {
+        "title": "Middle Python-разработчик",
+        "salary_max": 0,
+        "salary_min": 250000,
+        "employer": "ANABAR",
+        "link": "https://hh.ru/vacancy/80811608"
+    },
+    {
+        "title": "Специалист по техническому сопровождению информационно-технологических систем",
+        "salary_max": 130000,
+        "salary_min": 90000,
+        "employer": "ФБУН ЦНИИ Эпидемиологии Роспотребнадзора",
+        "link": "https://hh.ru/vacancy/80351444"
+    },
+    {
+        "title": "Data Engineer (ETL)",
+        "salary_max": 0,
+        "salary_min": 250000,
+        "employer": "Carprice",
+        "link": "https://hh.ru/vacancy/80289827"
+    },
+    {
+        "title": "Агент поддержки клиентов",
+        "salary_max": 50000,
+        "salary_min": 40000,
+        "employer": "Проекты Димы и Ксюши",
+        "link": "https://hh.ru/vacancy/79825920"
+    },
+    {
+        "title": "Главный специалист",
+        "salary_max": 120000,
+        "salary_min": 0,
+        "employer": "Свод Интернешнл (ГТЦ ПАО Газпром, ГК Альпика, ГК Гранд Отель Поляна, ГК Поляна 1389 Отель и СПА, ОКЦ Галактика, ЛБК Лаура)",
+        "link": "https://hh.ru/vacancy/77083272"
+    },
+    {
+        "title": "Ассистент кафедры информационных систем",
+        "salary_max": 90000,
+        "salary_min": 47000,
+        "employer": "ФГБУ Государственный университет управления",
+        "link": "https://hh.ru/vacancy/80222029"
+    },
+    {
+        "title": "Ночной системный инженер мониторинга",
+        "salary_max": 180000,
+        "salary_min": 110000,
+        "employer": "SoftGamings",
+        "link": "https://hh.ru/vacancy/80671219"
+    },
+    {
+        "title": "DevOps-специалист",
+        "salary_max": 250000,
+        "salary_min": 100000,
+        "employer": "Центр Развития Технологий",
+        "link": "https://hh.ru/vacancy/79930644"
+    },
+    {
+        "title": "Аналитик баз данных",
+        "salary_max": 0,
+        "salary_min": 60000,
+        "employer": "SOFI Consult",
+        "link": "https://hh.ru/vacancy/79941716"
+    },
+    {
+        "title": "Middle Python Developer",
+        "salary_max": 120000,
+        "salary_min": 60000,
+        "employer": "Divo.ai",
+        "link": "https://hh.ru/vacancy/80321799"
+    },
+    {
+        "title": "PostgreSQL Senior Developer",
+        "salary_max": 400000,
+        "salary_min": 200000,
+        "employer": "JuicyScore",
+        "link": "https://hh.ru/vacancy/80840681"
+    },
+    {
+        "title": "Web-разработчик",
+        "salary_max": 170000,
+        "salary_min": 130000,
+        "employer": "Научно-производственный центр Кейсистемс - Безопасность",
+        "link": "https://hh.ru/vacancy/76814391"
+    },
+    {
+        "title": "Программист",
+        "salary_max": 50000,
+        "salary_min": 40000,
+        "employer": "Администрация города Вологды",
+        "link": "https://hh.ru/vacancy/80219369"
+    },
+    {
+        "title": "Auto QA engineer",
+        "salary_max": 100000,
+        "salary_min": 80000,
+        "employer": "Онлайн-гимназия",
+        "link": "https://hh.ru/vacancy/80686108"
+    },
+    {
+        "title": "Менеджер по продукту",
+        "salary_max": 100000,
+        "salary_min": 90000,
+        "employer": "Киберкот-Т",
+        "link": "https://hh.ru/vacancy/80244033"
+    },
+    {
+        "title": "Специалист по функциональному тестированию (Middle)",
+        "salary_max": 60000,
+        "salary_min": 50000,
+        "employer": "KVINT",
+        "link": "https://hh.ru/vacancy/80342031"
+    },
+    {
+        "title": "Администратор",
+        "salary_max": 30000,
+        "salary_min": 25000,
+        "employer": "ГБПОУ Нижегородский колледж малого бизнеса",
+        "link": "https://hh.ru/vacancy/80514869"
+    },
+    {
+        "title": "Системный администратор",
+        "salary_max": 150000,
+        "salary_min": 80000,
+        "employer": "Радар ММС",
+        "link": "https://hh.ru/vacancy/77660971"
+    },
+    {
+        "title": "С++ Developer (Python)",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "МКО Системы",
+        "link": "https://hh.ru/vacancy/73030684"
+    },
+    {
+        "title": "Инженер-программист",
+        "salary_max": 0,
+        "salary_min": 40000,
+        "employer": "ГБУЗ АО МИАЦ",
+        "link": "https://hh.ru/vacancy/80089692"
+    },
+    {
+        "title": "Site Reliability Engineer",
+        "salary_max": 6000,
+        "salary_min": 5000,
+        "employer": "Яндекс",
+        "link": "https://hh.ru/vacancy/80121247"
+    },
+    {
+        "title": "IT project manager",
+        "salary_max": 170000,
+        "salary_min": 0,
+        "employer": "Техмаркетинггрупп",
+        "link": "https://hh.ru/vacancy/80188511"
+    },
+    {
+        "title": "Senior Research Analyst",
+        "salary_max": 350000,
+        "salary_min": 250000,
+        "employer": "Fashion Cute LLC, Представительство",
+        "link": "https://hh.ru/vacancy/80355564"
+    },
+    {
+        "title": "Программист",
+        "salary_max": 75000,
+        "salary_min": 50000,
+        "employer": "ГУФССП России по Московской области",
+        "link": "https://hh.ru/vacancy/80465472"
+    },
+    {
+        "title": "Менеджер вводных уроков (онлайн школа)",
+        "salary_max": 250000,
+        "salary_min": 60000,
+        "employer": "EasyCode",
+        "link": "https://hh.ru/vacancy/78636660"
+    },
+    {
+        "title": "Site Reliability Engineer",
+        "salary_max": 6000,
+        "salary_min": 5000,
+        "employer": "Яндекс",
+        "link": "https://hh.ru/vacancy/80121246"
+    },
+    {
+        "title": "Middle/+ WEB3.js разработчик (удаленно)",
+        "salary_max": 0,
+        "salary_min": 1000,
+        "employer": "Inside-solutions",
+        "link": "https://hh.ru/vacancy/80229309"
+    },
+    {
+        "title": "Middle разработчик Python",
+        "salary_max": 200000,
+        "salary_min": 100000,
+        "employer": "Дэвикон",
+        "link": "https://hh.ru/vacancy/80912286"
+    },
+    {
+        "title": "Node.js Developer",
+        "salary_max": 0,
+        "salary_min": 45000,
+        "employer": "Fojin",
+        "link": "https://hh.ru/vacancy/80672130"
+    },
+    {
+        "title": "ИТ-специалист (в ИТ-компанию)",
+        "salary_max": 0,
+        "salary_min": 37000,
+        "employer": "БУ ВО ЭЛЕКТРОННЫЙ РЕГИОН",
+        "link": "https://hh.ru/vacancy/75976087"
+    },
+    {
+        "title": "Data engineer (Junior)",
+        "salary_max": 0,
+        "salary_min": 70000,
+        "employer": "DNS Технологии",
+        "link": "https://hh.ru/vacancy/78968207"
+    },
+    {
+        "title": "Python разработчик (удаленно)",
+        "salary_max": 300000,
+        "salary_min": 230000,
+        "employer": "АйТиКвик",
+        "link": "https://hh.ru/vacancy/79365089"
+    },
+    {
+        "title": "Аналитик отдела закупок",
+        "salary_max": 0,
+        "salary_min": 120000,
+        "employer": "ИВА",
+        "link": "https://hh.ru/vacancy/79817866"
+    },
+    {
+        "title": "Senior support agent",
+        "salary_max": 0,
+        "salary_min": 600,
+        "employer": "Проекты Димы и Ксюши",
+        "link": "https://hh.ru/vacancy/79984594"
+    },
+    {
+        "title": "BI-специалист",
+        "salary_max": 200000,
+        "salary_min": 150000,
+        "employer": "Мор Солюшенс",
+        "link": "https://hh.ru/vacancy/80529134"
+    },
+    {
+        "title": "DevOps-engineer",
+        "salary_max": 250000,
+        "salary_min": 175000,
+        "employer": "Nixys",
+        "link": "https://hh.ru/vacancy/78922558"
+    },
+    {
+        "title": "Backend разработчик (PHP, Python)",
+        "salary_max": 0,
+        "salary_min": 160000,
+        "employer": "SPRINTHOST",
+        "link": "https://hh.ru/vacancy/80848799"
+    },
+    {
+        "title": "Программист-тестировщик (отдел автотестирования)",
+        "salary_max": 92000,
+        "salary_min": 46000,
+        "employer": "Тензор",
+        "link": "https://hh.ru/vacancy/76393320"
+    },
+    {
+        "title": "Специалист технической поддержки хостинга и VPS (Удалённо)",
+        "salary_max": 45000,
+        "salary_min": 25000,
+        "employer": "Авгуро Технолоджис",
+        "link": "https://hh.ru/vacancy/79876995"
+    },
+    {
+        "title": "Вожатый в IT-школу ProGame",
+        "salary_max": 15000,
+        "salary_min": 10000,
+        "employer": "ProGame (ИП Попова Дарья Александровна)",
+        "link": "https://hh.ru/vacancy/80545962"
+    },
+    {
+        "title": "Fullstack developer",
+        "salary_max": 350000,
+        "salary_min": 200000,
+        "employer": "Heroes",
+        "link": "https://hh.ru/vacancy/80848111"
+    },
+    {
+        "title": "Backend-разработчик",
+        "salary_max": 0,
+        "salary_min": 120000,
+        "employer": "Сибирско-уральская медиакомпания",
+        "link": "https://hh.ru/vacancy/79701414"
+    },
+    {
+        "title": "Аналитик",
+        "salary_max": 180000,
+        "salary_min": 120000,
+        "employer": "ST LUCE",
+        "link": "https://hh.ru/vacancy/79739235"
+    },
+    {
+        "title": "Фронтенд-разработчик",
+        "salary_max": 0,
+        "salary_min": 150000,
+        "employer": "Крибрум",
+        "link": "https://hh.ru/vacancy/79729315"
+    },
+    {
+        "title": "Инженер-программист",
+        "salary_max": 80000,
+        "salary_min": 80000,
+        "employer": "Амурфармация",
+        "link": "https://hh.ru/vacancy/79284004"
+    },
+    {
+        "title": "Старший системный администратор",
+        "salary_max": 0,
+        "salary_min": 90000,
+        "employer": "Русская Рыбопромышленная Компания",
+        "link": "https://hh.ru/vacancy/80474266"
+    },
+    {
+        "title": "Младший специалист по тестированию ПО",
+        "salary_max": 0,
+        "salary_min": 50000,
+        "employer": "ИТЕРАНЕТ",
+        "link": "https://hh.ru/vacancy/78352954"
+    },
+    {
+        "title": "Аналитик",
+        "salary_max": 0,
+        "salary_min": 100000,
+        "employer": "ЕРЦ ЖКХ",
+        "link": "https://hh.ru/vacancy/80084445"
+    },
+    {
+        "title": "Системный администратор Linux",
+        "salary_max": 0,
+        "salary_min": 300000,
+        "employer": "EFIX GROUP",
+        "link": "https://hh.ru/vacancy/78420320"
+    },
+    {
+        "title": "Go-разработчик Талант",
+        "salary_max": 0,
+        "salary_min": 80000,
+        "employer": "JetStyle",
+        "link": "https://hh.ru/vacancy/79508235"
+    }
+]
