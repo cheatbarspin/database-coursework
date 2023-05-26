@@ -24,10 +24,7 @@ class DBManager:
     def get_all_vacancies(self):
         """Получает список всех вакансий с указанием названия компании,
         названия вакансии и зарплаты и ссылки на вакансию."""
-        all_vacancies = []
-        for el in self.data:
-            all_vacancies.append(el)
-        return all_vacancies
+        return self.data
 
     def get_avg_salary(self):
         """Получает среднюю зарплату по вакансиям."""
@@ -41,7 +38,7 @@ class DBManager:
         """Получает список всех вакансий, у которых зарплата выше средней по всем вакансиям."""
         high_salary_res = []
         for el in self.data:
-            if el['salary_min'] or el['salary_max'] > self.get_avg_salary():
+            if el.salary_min or el.salary_max > self.get_avg_salary():
                 high_salary_res.append(el)
         return high_salary_res
 
@@ -51,7 +48,7 @@ class DBManager:
         research = []
         found = False
         for el in self.data:
-            if keyword in el['title']:
+            if keyword in el.title:
                 research.append(el)
                 found = True
             if found:

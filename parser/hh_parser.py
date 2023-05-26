@@ -38,9 +38,13 @@ class HHParser(Parser):
             if salary:
                 answer.append(Vacancy(**{
                     "title": el['name'],
+                    'vacancy_id': int(el['id']),
                     "employer": el['employer']['name'],
                     "salary_max": el['salary']['to'],
                     "salary_min": el['salary']['from'],
+                    "employment": el['employment']['name'],
+                    "requirement": el['snippet']['requirement'],
+                    "experience": el['experience']['name'],
                     "link": el['alternate_url'],
                 })
                               )
