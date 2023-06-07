@@ -1,3 +1,4 @@
+DROP DATABASE IF EXIST vacancies_bd;
 CREATE DATABASE vacancies_bd;
 
 
@@ -12,9 +13,8 @@ CREATE TABLE IF NOT EXISTS vacancies (
                     employer_id INT REFERENCES employers(employer_id) NOT NULL,
                     experience VARCHAR(255),
                     employment VARCHAR(255),
-                    description VARCHAR(255),
+                    requirement VARCHAR(255),
                     salary INT,
-                    currency VARCHAR(10),
                     url VARCHAR(30)
                     );
 

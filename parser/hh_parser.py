@@ -6,9 +6,10 @@ from service.base import Vacancy
 
 class HHParser(Parser):
 
-    def __init__(self, text, area=113):
+    def __init__(self, text, employer_id, area=113):
         self.text = text
         self.area = area
+        self.employer_id = employer_id
         self.url = 'https://api.hh.ru/vacancies'
         self.page = 1
 
@@ -19,10 +20,11 @@ class HHParser(Parser):
             responce_data = requests.get(
                 url=self.url,
                 params={
-                    'text': self.text,
+                    # 'text': self.text,
                     'per_page': 50,
                     'page': self.page,
                     'area': self.area,
+                    'employer_id': self.employer_id,
                     'only_with_salary': True
                 },
             )
@@ -35,16 +37,16 @@ class HHParser(Parser):
         answer = []
         for el in data['items']:
             salary = el.get('salary')
-            if salary:
+            if salary and salary.get('currency') == 'RUR':
+                current_salary = salary.get('from') if salary.get('from') else salary.get('to')
                 answer.append(Vacancy(**{
                     "title": el['name'],
                     'vacancy_id': int(el['id']),
                     "employer": el['employer']['name'],
-                    "salary_max": el['salary']['to'],
-                    "salary_min": el['salary']['from'],
+                    "experience": el['experience']['name'],
                     "employment": el['employment']['name'],
                     "requirement": el['snippet']['requirement'],
-                    "experience": el['experience']['name'],
+                    "salary": current_salary,
                     "link": el['alternate_url'],
                 })
                               )

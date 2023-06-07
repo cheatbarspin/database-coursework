@@ -6,12 +6,11 @@ class Vacancy:
     employer: str
     link: str
 
-    def __init__(self, title, salary_min, salary_max, employer, link, vacancy_id, employment, requirement, experience):
+    def __init__(self, title, salary,  employer, link, vacancy_id, employment, requirement, experience):
         """Инициализатор класса вакансий"""
         self.title = title
         self.vacancy_id = vacancy_id
-        self.salary_min = salary_min
-        self.salary_max = salary_max
+        self.salary = salary
         self.employer = employer
         self.employment = employment
         self.requirement = requirement
@@ -43,8 +42,7 @@ class Vacancy:
             'title': self.title,
             'vacancy_id': self.vacancy_id,
             'employer': self.employer,
-            'salary_max': self.salary_max or 0,
-            'salary_min': self.salary_min or 0,
+            'salary': self.salary or 0,
             'employment': self.employment,
             'requirement': self.requirement,
             'experience': self.experience,
