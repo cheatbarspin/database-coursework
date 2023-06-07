@@ -46,7 +46,7 @@ class HHParser(Parser):
                     "experience": el['experience']['name'],
                     "employment": el['employment']['name'],
                     "requirement": el['snippet']['requirement'],
-                    "salary": current_salary,
+                    "salary": int(current_salary),
                     "link": el['alternate_url'],
                 })
                               )
