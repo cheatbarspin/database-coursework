@@ -1,7 +1,6 @@
 import requests
-from service.abstract import Parser
 
-from service.base import Vacancy
+from service.abstract import Parser
 
 
 class HHParser(Parser):
@@ -42,19 +41,4 @@ class HHParser(Parser):
                 answer.append((int(el['id']), el['name'], int(el['employer']['id']),
                                el['experience']['name'], el['employment']['name'],
                                el['snippet']['requirement'], int(current_salary), el['alternate_url']))
-                # answer.append(Vacancy(**{
-                #     "title": el['name'],
-                #     'vacancy_id': int(el['id']),
-                #     "employer_id": int(el['employer']['id']),
-                #     "experience": el['experience']['name'],
-                #     "employment": el['employment']['name'],
-                #     "requirement": el['snippet']['requirement'],
-                #     "salary": int(current_salary),
-                #     "link": el['alternate_url'],
-                # })
-                #               )
         return answer
-
-
-# r = requests.get('https://api.hh.ru/vacancies', params={'employer_id': "4181"})
-# print(r.json())

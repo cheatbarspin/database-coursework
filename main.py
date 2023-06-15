@@ -7,7 +7,8 @@ DBPATH = './data/db.json'
 
 def main():
     manager = DBManager(DBPATH)
-    choice_user = input("Введите 1 если хотите обновить базу данных, или введите любую клавишу: ")
+    print()
+    choice_user = input("Введите 1 чтобы обновить базу данных и начать работу: ")
     if choice_user == '1':
         manager.create_db()
         manager.create_tables()

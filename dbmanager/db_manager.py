@@ -1,7 +1,5 @@
-import json
 import psycopg2
 from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
-from service.base import Vacancy
 
 
 class DBManager:
@@ -109,8 +107,3 @@ url VARCHAR(30));
                 rows = cur.fetchall()
                 for row in rows:
                     print(row)
-
-    # def read_from_file(self):
-    #     with open(self.filename, 'r') as f:
-    #         for el in json.loads(f.read()):
-    #             self.data.append(Vacancy(**el))

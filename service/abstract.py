@@ -11,4 +11,3 @@ class Parser(ABC):
     def get_data(self) -> dict:
         """Метод для получения списка словарей"""
         pass
-
