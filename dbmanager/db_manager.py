@@ -10,7 +10,6 @@ class DBManager:
 
     def __init__(self, filename):
         self.filename = filename
-        self.read_from_file()
         self.database = 'vacancies_bd'
 
     def create_db(self):
@@ -111,7 +110,7 @@ url VARCHAR(30));
                 for row in rows:
                     print(row)
 
-    def read_from_file(self):
-        with open(self.filename, 'r') as f:
-            for el in json.loads(f.read()):
-                self.data.append(Vacancy(**el))
+    # def read_from_file(self):
+    #     with open(self.filename, 'r') as f:
+    #         for el in json.loads(f.read()):
+    #             self.data.append(Vacancy(**el))
